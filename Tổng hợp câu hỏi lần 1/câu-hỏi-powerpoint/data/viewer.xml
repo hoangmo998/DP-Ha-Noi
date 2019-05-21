@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<presentation width="960" height="540" isRTL="0" preview="0" enableAccessibility="0" defaultSlideDuration="5" start="play" buildNum="11.1.0.189">
+	<presentationTitle>câu hỏi powerpoint</presentationTitle>
+	<speakers></speakers>
+	<search url="srchdata.xml"/>
+	<presentationBg url="bg.swf"/>
+	<masters><master url="Master0.swf" id="1" totalFrames="1"><backdrop frameNum="0"/><slidexml><AS3Class className="TL_33ff63269743422483565dc85bebf328yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></master></masters>
+	<layouts><layout url="Layout0.swf" id="1" totalFrames="1"><backdrop displayBgSp="false"/><slidexml><AS3Class className="TL_b1506753f7a3474f9af9be85266a1d69yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout><layout url="Layout1.swf" id="2" totalFrames="1"><backdrop displayBgSp="true"/><slidexml><AS3Class className="TL_c53d9ea2db134a73b93a7d668def79cayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30"><OnLoadCallBacks/><Audios/></AS3Class></slidexml></layout></layouts>
+	<slides>
+		<slide id="310" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide0.swf" id="310"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="1" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0c86f281a14c48c8a4899c360c2b988eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi về PowerPoint@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="1"/>
+		</slide>
+		<slide id="258" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10010" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide1.swf" id="258"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_23afdc3cc35f43a7bbb7a5cebfd2ab82yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10010xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10010" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10010" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10010xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 1. PowerPoint có thể làm những gì? @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="2"/>
+		</slide>
+		<slide id="260" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10074" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide2.swf" id="260"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b1f1dc2374404d888f358c3719987e0eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10074xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10074" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10074" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10074xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 2. Để khởi động Powerpoint, ta thực hiện:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="3"/>
+		</slide>
+		<slide id="261" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10075" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide3.swf" id="261"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_041dbbd94e5d44c29390e82df8513c27yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10075xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10075" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10075" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10075xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 3. Trong Powerpoint có thể tạo một bản trình diễn mới từ: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="4"/>
+		</slide>
+		<slide id="262" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10076" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide4.swf" id="262"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2d2e0210141a4bac89b123e63b82c521yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10076xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10076" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10076" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10076xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 4. Mỗi trang trình diễn trong PowerPoint được gọi là: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="5"/>
+		</slide>
+		<slide id="263" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10077" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide5.swf" id="263"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_85ccb109e2224070abaa190994de3f74yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10077xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10077" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10077" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10077xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 5. Muốn mở tập tin  đã tồn tại trên đĩa, ta phải: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="6"/>
+		</slide>
+		<slide id="264" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10078" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide6.swf" id="264"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_144f6ef59d694f9eb5a7c22848395b4byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10078xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10078" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10078" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10078xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 6. Muốn mở tập tin đã tồn tại trên đĩa,  sau khi khởi động Powerpoint ta nhấn tổ hợp phím: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="7"/>
+		</slide>
+		<slide id="265" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10079" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide7.swf" id="265"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_25dc5214bd2647bea16feb1a6d42382ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10079xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10079" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10079" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10079xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 7. Muốn mở 1 slide mới ta nhấn tổ hợp phím nào: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="8"/>
+		</slide>
+		<slide id="266" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10080" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide8.swf" id="266"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_6c71bd911b63499dab49526f4f15df2dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10080xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10080" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10080" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10080xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 8. Để hủy bỏ thao tác vừa thực hiệ ta nhấn tổ hợp phím: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="9"/>
+		</slide>
+		<slide id="267" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10081" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide9.swf" id="267"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ce4b990466f3411fa8842f0f6b756575yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10081xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10081" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10081" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10081xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 9. Để lưu tập tin đang mở , ta có thể: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="10"/>
+		</slide>
+		<slide id="268" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10082" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide10.swf" id="268"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_35be5f7a217e4931ba37de07cdac535byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10082xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10082" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10082" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10082xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 10. Nhấn tổ hợp phím nào để làm mất đi đối tượng đã chọn trên slide hiện hành: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="11"/>
+		</slide>
+		<slide id="269" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10083" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide11.swf" id="269"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_fc893a5ee210416994dc65280f13a0a8yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10083xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10083" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10083" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10083xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 11. Muốn xóa slide hiện thời người thiết kế phải: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="12"/>
+		</slide>
+		<slide id="270" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10084" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide12.swf" id="270"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a5846ad72a5b416e8da56be29f99255eyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10084xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10084" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10084" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10084xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 12. Đang trình chiếu 1 bài diễn, muốn dừng trình diễn ta nhấn phím:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="13"/>
+		</slide>
+		<slide id="271" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10085" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide13.swf" id="271"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5b8fe0ba2cf54a4ba596c5ad8c117629yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10085xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10085" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10085" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10085xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 13. Để thực hiện việc chèn bảng biểu vào slide ta phải:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="14"/>
+		</slide>
+		<slide id="272" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10086" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide14.swf" id="272"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b93e7724a64a46bf923ee27bdb5902cayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10086xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10086" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10086" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10086xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 14. Để đánh số trang trong các slide. Ta thực hiện lệnh nào:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="15"/>
+		</slide>
+		<slide id="273" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10087" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide15.swf" id="273"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_656591f20517433994bb2b469bdd2178yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10087xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10087" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10087" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10087xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 15. Thêm 1 slide giống trước ta dùng tổ hợp phím lệnh nào sau đây?@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="16"/>
+		</slide>
+		<slide id="274" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10088" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide16.swf" id="274"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e07bc1b565284625b1a517188d21c044yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10088xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10088" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10088" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10088xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 16. Muốn tô nền cho 1 textbox trong slide hiện hành, sau khi đã chọn Textbox đó ta thực hiện @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="17"/>
+		</slide>
+		<slide id="275" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10089" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide17.swf" id="275"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_e90b3cf13ed0439e9c00184ba3a16ae7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10089xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10089" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10089" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10089xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 17. Để huỷ bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="18"/>
+		</slide>
+		<slide id="276" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10090" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide18.swf" id="276"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_175e0c7870e746f88e2f813ea66bfc99yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10090xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10090" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10090" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10090xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 18. Tại một slide ta dùng tổ hợp phím nào sau đây sẽ xoá slide đó?@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="19"/>
+		</slide>
+		<slide id="277" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10091" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide19.swf" id="277"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_895dec77ee8d4d7bac3c858ee09aed54yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10091xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10091" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10091" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10091xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 19. Để đưa họ tên của mình vào cuối mỗi slide làm tiêu đề chân trang, người thiết kế phải: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="20"/>
+		</slide>
+		<slide id="278" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10092" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide20.swf" id="278"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_221dd308b64a4e1e96987db1e0bdd9f3yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10092xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10092" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10092" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10092xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 20. Thêm một slide rỗng ta dùng tổ hợp phím nào sau đây ? @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="21"/>
+		</slide>
+		<slide id="279" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10093" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide21.swf" id="279"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_bef5e86cb5254910bd11b227e64202dayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10093xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10093" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10093" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10093xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 21. Để tạo một slide giống hệt slide hiện hành mà không phải thiết kế lại, người sử dụng cần chọn: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="22"/>
+		</slide>
+		<slide id="280" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10094" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide22.swf" id="280"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_c26b379cae2649c6a375f6971a28b77cyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10094xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10094" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10094" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10094xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 22. Muốn chữ "Powerpoint" trong một văn bản định dạng thành "Powerpoint" ta:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="23"/>
+		</slide>
+		<slide id="281" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10095" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide23.swf" id="281"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_668e0619418c4fc9b5eaf436668e6247yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10095xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10095" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10095" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10095xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 23. Để thiết lập thông số trang in ta tực hiện: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="24"/>
+		</slide>
+		<slide id="282" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10096" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide24.swf" id="282"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f2f0ffbb0f5048ccb8dc7023b4740d63yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10096xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10096" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10096" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10096xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 24. Sau khi đã thiết kế xong bài trình diễn, cách làm nào sau đây không phải để trình chiếu ngay bài trình diễn đó? @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="25"/>
+		</slide>
+		<slide id="283" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10097" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide25.swf" id="283"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_1a10b9a59c0745799ccb73784d771187yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10097xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10097" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10097" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10097xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 25. Trong khi thiết kế giáo án điện tử, thực hiện thao tác chọn Insert -&gt; New Slide là để: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="26"/>
+		</slide>
+		<slide id="284" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10098" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide26.swf" id="284"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_d302ca16ba524399b7913146e1c09fc9yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10098xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10098" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10098" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10098xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 26. Để căn lề cho một đoạn văn bản nào đó trong giáo án điện tử đang thiết kế, trước tiên ta phải: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="27"/>
+		</slide>
+		<slide id="285" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10099" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide27.swf" id="285"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_47d05dad6dcb491f87d31374e5819924yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10099xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10099" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10099" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10099xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 27. Để lưu một đoạn văn bản đã được chọn vào vùng nhớ đệm (clipboard) mà không làm mất đi đoạn văn bản đó ta nhấn tổ hợp phím: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="28"/>
+		</slide>
+		<slide id="286" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10100" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide28.swf" id="286"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_a74f60dcd656475b8cef4accedef4102yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10100xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10100" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10100" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10100xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 28. Đang thiết kế giáo án điện tử, trước khi thoát khỏi PowerPoint nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện một thông báo. Để lưu lại tập tin này ta sẽ kích chuột trái vào nút nào trong bảng thông báo này? @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="29"/>
+		</slide>
+		<slide id="287" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10101" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide29.swf" id="287"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_730b860f73554f60b8cd73da11297fbdyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10101xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10101" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10101" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10101xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 29. Muốn kẽ đường viền màu xanh cho một Text Box trong giáo án điện tử, sau khi chọn Format -&gt; Text Box, chọn thẻ Color and Lines và  @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="30"/>
+		</slide>
+		<slide id="288" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10102" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide30.swf" id="288"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b64cf360f73045a39869b99de7f4f3cbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10102xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10102" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10102" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10102xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 30. Thực hiện thao tác chọn Slide Show -&gt; Custom Animation là để @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="31"/>
+		</slide>
+		<slide id="289" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10103" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide31.swf" id="289"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_9a838640be8744b78ce24ba5882d2eecyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10103xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10103" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10103" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10103xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 31. PowerPoint cho phép người sử dụng thiết kế một slide chủ chứa các định dạng chung của toàn bộ các slide trong bài trình diễn. Để thực hiện điều này, người dùng phải @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="32"/>
+		</slide>
+		<slide id="290" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10104" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide32.swf" id="290"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_63fc7197acf44782808a3050ba0f0c33yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10104xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10104" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10104" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10104xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 32. Máy tính đang kết nối Internet, sử dụng siêu liên kết (Hyperlink) sẽ cho phép người dùng liên kết đến: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="33"/>
+		</slide>
+		<slide id="291" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10105" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide33.swf" id="291"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_161c0d8b2f4f4ebd952b5b706c691b6ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10105xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10105" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10105" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10105xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 33. Khi thực hiện thao tác chọn Insert -&gt; Movies and Sounds người sử dụng @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="34"/>
+		</slide>
+		<slide id="292" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10106" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide34.swf" id="292"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_0cc33a130e8d4633b9f090fcd4e31e2byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10106xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10106" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10106" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10106xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 34. Nếu chọn 3 ô liên tiếp trên cùng một cột của bảng biểu, đưa chuột vào vùng ô đó, nhấn chuột phải và chọn @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="35"/>
+		</slide>
+		<slide id="293" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10107" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide35.swf" id="293"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_b67bbc672af743bab63a438638b92ec7yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10107xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10107" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10107" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10107xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 35. Muốn bật hoặc tắt thanh công cụ Drawing trên màn hình PowerPoint, người sử dụng phải @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="36"/>
+		</slide>
+		<slide id="294" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10108" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide36.swf" id="294"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_90232b8685704cb284073e8a047eea76yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10108xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10108" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10108" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10108xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 36. Muốn dùng một hình ảnh nào đó đã có trong đĩa để làm nền cho các slide trong giáo án điện tử, sau khi chọn Format -&gt; Background -&gt; Fill Effects ta chọn @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="37"/>
+		</slide>
+		<slide id="295" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10109" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide37.swf" id="295"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_337a23e884484752ade61d917d27f544yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10109xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10109" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10109" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10109xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 37. Khi đang trình chiếu (Slide Show) một bài trình diễn, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, ta phải @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="38"/>
+		</slide>
+		<slide id="296" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10110" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide38.swf" id="296"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_4d000e1b255342bba9e14f5996a41f87yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10110xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10110" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10110" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10110xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 38. Âm thanh đưa vào bài trình diễn @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="39"/>
+		</slide>
+		<slide id="297" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10111" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide39.swf" id="297"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_65de83ee2fc64cb69645eac0ec09ebdbyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10111xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10111" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10111" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10111xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 39. Muốn xoá đi một cột bảng biểu trong Slide hiện hành ta thực hiện lệnh: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="40"/>
+		</slide>
+		<slide id="298" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10112" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide40.swf" id="298"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_34bc09e97245428a8da28a34121ce720yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10112xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10112" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10112" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10112xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 40. : Để các slide đều có tên của mình khi trình chiếu ta vào chọn? (sau đó gõ vào Footer) @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="41"/>
+		</slide>
+		<slide id="299" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10113" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide41.swf" id="299"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ddf5579bb73b4a12adbd672c1d0e56c1yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10113xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10113" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10113" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10113xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 41. Khi đang làm việc với PowerPoint, muốn thiết lập lại bố cục (trình bày về văn bản, hình ảnh, biểu đồ,...) của Slide, ta thực hiện: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="42"/>
+		</slide>
+		<slide id="300" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10114" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide42.swf" id="300"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_055eb35654ef40268af60333e635bcdcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10114xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10114" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10114" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10114xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 42. Khi đang làm việc với PowerPoint, muốn trình diễn tài liệu được soạn thảo, ta thực hiện: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="43"/>
+		</slide>
+		<slide id="301" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10115" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide43.swf" id="301"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_aab72f3144c442f3bf73ff9b3c970f15yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10115xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10115" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10115" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10115xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 43. Khi đang làm việc với PowerPoint, để chèn thêm một Slide mới, ta thực hiện: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="44"/>
+		</slide>
+		<slide id="302" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10116" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide44.swf" id="302"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_8b0327c541e34dddaafea43e47bb877byxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10116xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10116" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10116" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10116xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 44. Khi đang làm việc với PowerPoint, muốn thay đổi thiết kế của Slide, ta thực hiện: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="45"/>
+		</slide>
+		<slide id="303" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10117" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide45.swf" id="303"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2e8536369f154b4282851f38c964e2acyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10117xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10117" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10117" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10117xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 45. Trong Powerpoint, muốn tạo một sơ đồ tổ chức, ta dùng lệnh hay thao tác nào sau đây: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="46"/>
+		</slide>
+		<slide id="304" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10118" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide46.swf" id="304"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_7e8b780b20274c0ba4ac67d90e6562e0yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10118xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10118" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10118" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10118xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 46. Trong Powerpoint muốn chèn một đoạn âm thanh vào Slide, ta dùng lệnh hay tổ hợp phím nào sau đây: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="47"/>
+		</slide>
+		<slide id="305" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10119" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide47.swf" id="305"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_5352e5bdf1a74b39b4daca83896062ecyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10119xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10119" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10119" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10119xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 47. Trong Powerpoint muốn chèn các Slide từ 1 tập tin khác vào tập tin đang mở, ta dùng lệnh hay thao tác nào sau đây: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="48"/>
+		</slide>
+		<slide id="306" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10120" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide48.swf" id="306"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_ea0867c8ac914dedb70aae2497fb0a6ayxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10120xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10120" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10120" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10120xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 48. Trong Powerpoint khi cần dùng các ký hiệu toán học như căn số, phân số, dấu tích phân, dấu góc, các phép toán so sánh, các ký hiệu đặc biệt…, thực hiện như sau: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="49"/>
+		</slide>
+		<slide id="307" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10121" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide49.swf" id="307"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_f2dff839e1974558901b3b212693b845yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10121xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10121" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10121" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10121xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 49. Trong Powerpoint để sử dụng những Slide đã định dạng sẵn ta thực hiện:@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="50"/>
+		</slide>
+		<slide id="308" showInTOC="false" inSequence="" frameRate="30" totalFrames="150" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="quiz" quiz="10004" group="-1">
+			<questions>
+				<question index="10122" weight="2" showCorrectFeedback="true" showIncorrectFeedback="true" isMandatory="0" scoreType="scored" shuffleAnswers="true"/>
+			</questions>
+			<audioFeedbacks></audioFeedbacks>
+			<content url="Slide50.swf" id="308"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_be2281707f164a34bb286d107320310dyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="MultipleChoice"><AS3Class className="Question10122xyxyxyxyxyxyxyxyxyxyxyxyx" classType="Question_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" numQuestionAttemptsAllowed="2" interactionType="choice" questionNumInQuiz="10122" questionText="" isTracked="1" objectiveID="Quiz10004" interactionID="Interaction10122" mustAnswerAll="0"><AS3Class className="CorrectFeedbackxyxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="" actionArg2="1"/><AS3Class className="IncorrectFeedbackxyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" actionType="nextSlide" visible="0" accText=" " audioClipID="-1" actionArg1="256" actionArg2="1"/><AS3Class className="IncompleteFeedbackyxyxyxyxyxyxyxyxyxyx" classType="Feedback_xyxyxyxyxyxyxyxyxyxyxyxyxyxyx" onlyDoAction="0" visible="0" accText=" "/><AS3Class className="ReviewFeedback10122xyxyxyxyxyxyxyxyxyx" classType="ReviewFeedback_xyxyxyxyxyxyxyxyxyxyxyx"/></AS3Class></Quiz></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+				<click startTime="867" isStartRelative="false" duration="666"/>
+				<click startTime="1567" isStartRelative="false" duration="666"/>
+				<click startTime="2267" isStartRelative="false" duration="666"/>
+				<click startTime="2967" isStartRelative="false" duration="666"/>
+				<click startTime="3667" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi 50. Trong Powerpoint muốn chèn một ký hiệu vào Slide ta dùng lệnh nào sau đây: @</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="51"/>
+		</slide>
+		<slide id="259" showInTOC="false" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="never" blockMovement="false" hideplaybar="false" type="scoring" quiz="10004">
+			<content url="Slide51.swf" id="259"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_05d1210470eb43b793b0b044152c43fcyxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><FrameScript frameNo="1"><Stop/></FrameScript><OnLoadCallBacks/><Audios/></AS3Class><Quiz questionType="ScoringSlide"/></slidexml>
+			<clickAnimations>
+				<click startTime="167" isStartRelative="false" duration="666"/>
+			</clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Câu hỏi@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="52"/>
+		</slide>
+		<slide id="309" showInTOC="" inSequence="" frameRate="30" totalFrames="30" usePptxSlideDur="0" lockInteractionSlide="false" isHiddenInteractionSl="false" isWrongInteractionSl="false" swfConvertorEngine="Nova" slideDuration="5" advance="auto" blockMovement="false" hideplaybar="false" type="normal">
+			<content url="Slide52.swf" id="309"/>
+			<backdrop displayBgSp="true"/>
+			<master id="1" frameNum="0"/>
+			<layout id="2" frameNum="0"/>
+			<slidexml><AS3Class className="TL_2c696c9bb5d2405aa02fb65c89a26a13yxy" classType="PptTmline_xyxyxyxyxyxyxyxyxyxyxyxyxyxy" frameRate="30" normalSlide="1"><OnLoadCallBacks/><Audios/></AS3Class></slidexml>
+			<clickAnimations></clickAnimations>
+			<webObjectContents/>
+			<flvContents/>
+			<slideTitle>@Cảm ơn các bạn đã trả lời câu hỏi!@</slideTitle>
+			<notes isHTML="true"></notes>
+			<slideThumbnail url="thumb.swf" frame="53"/>
+		</slide>
+	</slides>
+	<quizzes>
+		<reportingOptions statusReportingOption="0" successReportingCriteria="-1" completionReportingCriteria="-1" slideViewCompletionCriteria="-1" slideViewSuccessCriteria="-1" quizCompletionCriteria="-1" quizSuccessCriteria="-1" completionCriteriaSlideViewVal="0" successCriteriaSlideViewVal="0" dataToReport="1" exitNormal="0" isTracked="false"></reportingOptions>
+		<quizSettings showQuestionList="true" showScores="true" showPassScore="false" showCurrentScore="true" showQuestionMarks="false" showAttempts="true" showQuizAttempts="false" showQuestionAttempts="false" showQuestionCorrectFeedback="true" showQuestionIncorrectFeedback="true" showQuizNavigationWarning="true"></quizSettings>
+		<quiz quizID="10004" title="Câu hỏi" numQuizAttemptsAllowed="1" minScore="0" passingScore="55" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="1" failingGradeAction="nextSlide" failingGradeActionArg1="" failingGradeActionArg2="1" questionAdvance="optional" quizAdvance="mustTake" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="Đã Qua" failedScoreFeedback="Đã Trượt" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+		<quiz quizID="10134" title="Quiz" numQuizAttemptsAllowed="1" minScore="0" passingScore="80" percent="true" passingGradeAction="nextSlide" passingGradeActionArg1="" passingGradeActionArg2="1" failingGradeAction="nextSlide" failingGradeActionArg1="" failingGradeActionArg2="1" questionAdvance="optional" quizAdvance="optional" showProgress="minimal" allowBackwardMovementInQuiz="true" allowReviewMode="true" passedScoreFeedback="Passed" failedScoreFeedback="Failed" shuffleQuestions="0">
+			<questiongroups></questiongroups>
+		</quiz>
+	</quizzes>
+	<attachments></attachments>
+</presentation>

@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 10.0" version="1.0">
+	<objective id="Quiz10004" max-score="100" passing-score="55" min-score="0">
+		<name>Câu hỏi</name>
+		<interactions>
+			<interaction id="Interaction10010" QUniqId="10010" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>Câu hỏi 1. Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong" ; Tại ô B2 gõ vào công thức =LOWER(A2) thì nhận được kết quả? </title>
+				<responses>
+					<response id="A">TIN HOC VAN PHONG </response>
+					<response id="B">Tin hoc van phong  </response>
+					<response id="C">tin hoc van phong  </response>
+					<response id="D">Tin Hoc Van Phong </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10074" QUniqId="10074" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 2</name>
+				<title>Câu hỏi 2. Trong bảng tính Excel, tại ô A2 có sẵn dãy kí tự "1Angiang2". Nếu sử dụng nút điền để điền dữ liệu đến các cột B2, C2, D2, E2; thì kết quả nhận được tại ô E2 là: </title>
+				<responses>
+					<response id="A">1Angiang6  </response>
+					<response id="B">5Angiang6  </response>
+					<response id="C">5Angiang2  </response>
+					<response id="D">1Angiang2 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10075" QUniqId="10075" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 3</name>
+				<title>Câu hỏi 3. Để chuẩn bị in một bảng tính Excel ra giấy?</title>
+				<responses>
+					<response id="A">Excel bắt buộc phải đánh số trang ở vị trí bên phải đầu mỗi trang  </response>
+					<response id="B">Có thể khai báo đánh số trang in hoặc không </response>
+					<response id="C">Chỉ đánh số trang in nếu bảng tính gồm nhiều trang </response>
+					<response id="D">Vị trí của số trang luôn luôn ở góc dưới bên phải </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10076" QUniqId="10076" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 4</name>
+				<title>Câu hỏi 4. Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong"; Tại ô B2 gõ vào công thức =PROPER(A2) thì nhận được kết quả?</title>
+				<responses>
+					<response id="A">Tin hoc van phong </response>
+					<response id="B">Tin hoc Van phong </response>
+					<response id="C">TIN HOC VAN PHONG </response>
+					<response id="D">Tin Hoc Van Phong </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10077" QUniqId="10077" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 5</name>
+				<title>Câu hỏi 5. Trong bảng tính Excel, giao của một hàng và một cột được gọi là?</title>
+				<responses>
+					<response id="A">Dữ liệu </response>
+					<response id="B">ô </response>
+					<response id="C">Trường </response>
+					<response id="D">Công thức </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10078" QUniqId="10078" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 6</name>
+				<title>Câu hỏi 6. Giả sử ngày hệ thống của máy tính là: 8/18/2008; Khi đó tại ô A2 gõ vào công thức =Today()-1 thì nhận đc kết quả là</title>
+				<responses>
+					<response id="A">0 </response>
+					<response id="B">#VALUE! </response>
+					<response id="C">#NAME!  </response>
+					<response id="D">8/17/2008 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10079" QUniqId="10079" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 7</name>
+				<title>Câu hỏi 7. Trong Excel, tại ô A2 có giá trị là số 10; ô B2 có giá trị là số 3. Tại ô C2 gõ công thức =MOD(A2,B2) thì nhận được kết quả</title>
+				<responses>
+					<response id="A">10 </response>
+					<response id="B">3 </response>
+					<response id="C">]#Value </response>
+					<response id="D">1 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10080" QUniqId="10080" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 8</name>
+				<title>Câu hỏi 8. Trong bảng tính Excel, tại ô D2 có công thức =B2*C2/100. Nếu sao chép công thức đến ô G6 thì sẽ có công thức là:</title>
+				<responses>
+					<response id="A">E7*F7/100 </response>
+					<response id="B">B6*C6/100  </response>
+					<response id="C">E6*F6/100  </response>
+					<response id="D">E2*C2/100 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10081" QUniqId="10081" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 9</name>
+				<title>Câu hỏi 9. Trong bảng tính Excel, để sửa dữ liệu trong một ô tính mà không cần nhập lại, ta thực hiện</title>
+				<responses>
+					<response id="A">Nháy chuột chọn ô tính cần sửa, rồi bấm phím F2 </response>
+					<response id="B">Nháy chuột chọn ô tính cần sửa, rồi bấm phím F4  </response>
+					<response id="C">Nháy chuột chọn ô tính cần sửa, rồi bấm phím F10 </response>
+					<response id="D">Nháy chuột chọn ô tính cần sửa, rồi bấm phím F12 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10082" QUniqId="10082" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 10</name>
+				<title>Câu hỏi 10. Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 10; Tại ô B2 gõ vào công thức =PRODUCT(A2,5) thì nhận được kết quả: </title>
+				<responses>
+					<response id="A">#VALUE! </response>
+					<response id="B">2 </response>
+					<response id="C">10 </response>
+					<response id="D">50 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10083" QUniqId="10083" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 11</name>
+				<title>Câu hỏi 11. Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi TINHOC ; Tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả: </title>
+				<responses>
+					<response id="A">#VALUE! </response>
+					<response id="B">Tinhoc </response>
+					<response id="C">TINHOC </response>
+					<response id="D">6 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10084" QUniqId="10084" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 12</name>
+				<title>Câu hỏi 12. Các kiểu dữ liệu thông dụng của Excel là: </title>
+				<responses>
+					<response id="A">Kiểu chuỗi, kiểu văn bản, kiểu ngày tháng </response>
+					<response id="B">Kiểu chuỗi, kiểu số, kiểu lôgic, kiểu ngày tháng, kiểu công thức  </response>
+					<response id="C">Kiểu số, kiểu lôgic, kiểu ngày tháng </response>
+					<response id="D">Kiểu công thức, kiểu hàm, kiểu số, kiểu ngày tháng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10085" QUniqId="10085" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 13</name>
+				<title>Câu hỏi 13. Trong bảng tính Excel, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiện thị trong ô các kí tự</title>
+				<responses>
+					<response id="A"># </response>
+					<response id="B">$ </response>
+					<response id="C">* </response>
+					<response id="D">&amp; </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10086" QUniqId="10086" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 14</name>
+				<title>Câu hỏi 14. Trong bảng tính Excel, muốn xóa hẳn một hàng ra khỏi trang tính, ta đánh dấu khối chọn hàng này và thực hiện</title>
+				<responses>
+					<response id="A">Table - Delete Rows </response>
+					<response id="B">Nhấn phím Delete  </response>
+					<response id="C">Edit - Delete </response>
+					<response id="D">Tools - Delete </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10087" QUniqId="10087" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 15</name>
+				<title>Câu hỏi 15. Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi? </title>
+				<responses>
+					<response id="A">#NAME! </response>
+					<response id="B">]#VALUE! </response>
+					<response id="C">N/A! </response>
+					<response id="D">DIV/0! </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10088" QUniqId="10088" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 16</name>
+				<title>Câu hỏi 16. Trong bảng tính Excel, muốn sắp xếp danh sách dữ liệu theo thứ tự tằng (giảm), ta thực hiện:</title>
+				<responses>
+					<response id="A">Tools - Sort </response>
+					<response id="B">File - Sort </response>
+					<response id="C">Data - Sort </response>
+					<response id="D">Format - Sort </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10089" QUniqId="10089" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 17</name>
+				<title>Câu hỏi 17. Trong bảng tính Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, Địa chỉ khối ô được thể hiện như câu nào sau đây là đúng? </title>
+				<responses>
+					<response id="A">B1...H15 </response>
+					<response id="B">B1:H15 </response>
+					<response id="C">B1-H15 </response>
+					<response id="D">B1..H15 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10090" QUniqId="10090" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 18</name>
+				<title>Câu hỏi 18. Trong Excel, tại ô A2 có giá trị là số 2008. Tại ô B2 gõ công thức =LEN(A2) thì nhận được kết quả?</title>
+				<responses>
+					<response id="A">#Value </response>
+					<response id="B">0 </response>
+					<response id="C">4 </response>
+					<response id="D">2008 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10091" QUniqId="10091" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 19</name>
+				<title>Câu hỏi 19. Trong bảng tính Excel, hộp thoại Chart Wizard cho phép xác định các thông tin nào sau đây cho biểu đồ?</title>
+				<responses>
+					<response id="A">Tiêu đề </response>
+					<response id="B">Có đường lưới hay không  </response>
+					<response id="C">Chú giải cho các trục </response>
+					<response id="D">Cả 3 câu đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10092" QUniqId="10092" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 20</name>
+				<title>Câu hỏi 20. Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi 2008 ; Tại ô B2 gõ vào công thức =VALUE(A2) thì nhận được kết quả:</title>
+				<responses>
+					<response id="A">#NAME! </response>
+					<response id="B">#VALUE! </response>
+					<response id="C">Giá trị kiểu chuỗi 2008  </response>
+					<response id="D">Giá trị kiểu số 2008 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10093" QUniqId="10093" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 21</name>
+				<title>Câu hỏi 21. Trong bảng tính Excel, tại ô A2 gõ vào công thức =MAX(30,10,65,5) thì nhận được kết quả tại ô A2 là</title>
+				<responses>
+					<response id="A">30 </response>
+					<response id="B">5 </response>
+					<response id="C">65 </response>
+					<response id="D">110 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10094" QUniqId="10094" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 22</name>
+				<title>Câu hỏi 22. Trong Excel, tại ô A2 có giá trị là chuỗi "Tinhoc"; Tại ô C2 gõ vào công thức =A2 thì nhận được kết quả tại ô C2: </title>
+				<responses>
+					<response id="A">#Value </response>
+					<response id="B">TINHOC </response>
+					<response id="C">TinHoc </response>
+					<response id="D">Tinhoc </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10095" QUniqId="10095" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 23</name>
+				<title>Câu hỏi 23. Trong bảng tính Excel, tại ô A2 có sẵn dữ liệu là dãy kí tự "Tin hoc van phong"; Tại ô B2 gõ vào công thức =UPPER(A2) thì nhận được kết quả?</title>
+				<responses>
+					<response id="A">TIN HOC VAN PHONG </response>
+					<response id="B">Tin hoc van phong  </response>
+					<response id="C">Tin Hoc Van Phong  </response>
+					<response id="D">Tin hoc van phong </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10096" QUniqId="10096" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 24</name>
+				<title>Câu hỏi 24. Trong bảng tính Excel, để lọc dữ liệu tự động, sau khi chọn khối cần lọc, ta thực hiện</title>
+				<responses>
+					<response id="A">Format - Filter - AutoFilter </response>
+					<response id="B">Insert - Filter - AutoFilter  </response>
+					<response id="C">Data - Filter - AutoFilter  </response>
+					<response id="D">View - Filter - AutoFilter   </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10097" QUniqId="10097" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 25</name>
+				<title>Câu hỏi 25. Trong bảng tính Excel, hàm nào sau đây cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước?</title>
+				<responses>
+					<response id="A">SUM </response>
+					<response id="B">COUNTIF </response>
+					<response id="C">COUNT </response>
+					<response id="D">SUMIF </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10098" QUniqId="10098" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 26</name>
+				<title>Câu hỏi 26. Trong bảng tính Excel, để chèn thêm một cột vào trang tính, ta thực hiện</title>
+				<responses>
+					<response id="A">Table - Insert Columns </response>
+					<response id="B">Format - Cells - Insert Columns  </response>
+					<response id="C">Table - Insert Cells </response>
+					<response id="D">Insert - Columns </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10099" QUniqId="10099" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 27</name>
+				<title>Câu hỏi 27. Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:</title>
+				<responses>
+					<response id="A">Page Up ; Page Down </response>
+					<response id="B">Ctrl-Page Up ; Ctrl- Page Down  </response>
+					<response id="C">Cả 2 câu đều đúng </response>
+					<response id="D">Cả 2 câu đều sai   </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10100" QUniqId="10100" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 28</name>
+				<title>Câu hỏi 28. Trong Excel cú pháp hàm SUMIF nào là đúng: </title>
+				<responses>
+					<response id="A">SumIf(range, criteria,[sum_range]) </response>
+					<response id="B">SumIf(criteria, range,[sum_range])  </response>
+					<response id="C">SumIf(range) </response>
+					<response id="D">SumIf(range, criteria) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10101" QUniqId="10101" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 29</name>
+				<title>Câu hỏi 29. Trong Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu? </title>
+				<responses>
+					<response id="A">VALUE#? </response>
+					<response id="B">15 </response>
+					<response id="C">1970 </response>
+					<response id="D">10 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10102" QUniqId="10102" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 30</name>
+				<title>Câu hỏi 30. Trong Excel cú pháp hàm COUNTIF nào đúng? </title>
+				<responses>
+					<response id="A">COUNTIF(range,criteria)  </response>
+					<response id="B">COUNTIF(criteria,range) </response>
+					<response id="C">COUNTIF(criteria,range,col_index_num)  </response>
+					<response id="D">COUNTIF(range,criteria,col_index_num) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10103" QUniqId="10103" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 31</name>
+				<title>Câu hỏi 31. Trong bảng tính Excel, tại ô A2 có sẵn giá trị số 25; Tại ô B2 gõ vào công thức =SQRT(A2) thì nhận được kết quả</title>
+				<responses>
+					<response id="A">0 </response>
+					<response id="B">5 </response>
+					<response id="C">#VALUE! </response>
+					<response id="D">#NAME! </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10104" QUniqId="10104" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 32</name>
+				<title>Câu hỏi 32. Trong bảng tính Excel, tại ô A2 có sẵn giá trị chuỗi "Tin hoc"; ô B2 có giá trị số 2008. Tại ô C2 gõ vào công thức =A2+B2 thì nhận được kết quả: </title>
+				<responses>
+					<response id="A">#VALUE! </response>
+					<response id="B">Tin hoc </response>
+					<response id="C">2008 </response>
+					<response id="D">Tin hoc2008 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10105" QUniqId="10105" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 33</name>
+				<title>Câu hỏi 33. Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính? </title>
+				<responses>
+					<response id="A">Shift + Home </response>
+					<response id="B">Alt + Home  </response>
+					<response id="C">Ctrl + Home </response>
+					<response id="D">Shift + Ctrl + Home </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10106" QUniqId="10106" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 34</name>
+				<title>Câu hỏi 34. Trong khi làm việc với Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ</title>
+				<responses>
+					<response id="A">Dấu chấm hỏi (?) </response>
+					<response id="B">Dấu bằng (=) </response>
+					<response id="C">Dấu hai chấm (:) </response>
+					<response id="D">Dấu đô la ($) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10107" QUniqId="10107" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 35</name>
+				<title>Câu hỏi 35. Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì? </title>
+				<responses>
+					<response id="A">Chương trình bảng tính bị nhiễm virus </response>
+					<response id="B">Công thức nhập sai và Excel thông báo lỗi </response>
+					<response id="C">Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số  </response>
+					<response id="D">Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10108" QUniqId="10108" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 36</name>
+				<title>Câu hỏi 36. Trong khi làm việc với Excel, muốn lưu bảng tính hiện thời vào đĩa, ta thực hiện: </title>
+				<responses>
+					<response id="A">Window - Save </response>
+					<response id="B">Edit - Save </response>
+					<response id="C">Tools - Save </response>
+					<response id="D">File - Save </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10109" QUniqId="10109" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 37</name>
+				<title>Câu hỏi 37. Câu nào sau đây sai? Khi nhập dữ liệu vào bảng tính Excel thì: </title>
+				<responses>
+					<response id="A">Dữ liệu kiểu số sẽ mặc nhiên căn thẳng lề trái </response>
+					<response id="B">Dữ liệu kiểu kí tự sẽ mặc nhiên căn thẳng lề trái </response>
+					<response id="C">Dữ liệu kiểu thời gian sẽ mặc nhiên căn thẳng lề phải  </response>
+					<response id="D">Dữ liệu kiểu ngày tháng sẽ mặc nhiên căn thẳng lề phải </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10110" QUniqId="10110" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 38</name>
+				<title>Câu hỏi 38. Trong bảng tính Excel, tại ô A2 có sẵn giá trị số không (0); Tại ô B2 gõ vào công thức =5/A2 thì nhận được kết quả: </title>
+				<responses>
+					<response id="A">0 </response>
+					<response id="B">5 </response>
+					<response id="C">#VALUE </response>
+					<response id="D">#DIV/0! </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10111" QUniqId="10111" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 39</name>
+				<title>Câu hỏi 39. Trong các dạng địa chỉ sau đây, địa chỉ nào là địa chỉ tuyệt đối? </title>
+				<responses>
+					<response id="A">B$1:D$10 </response>
+					<response id="B">$B1:$D10 </response>
+					<response id="C">B$1$:D$10$ </response>
+					<response id="D">$B$1:$D$10 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10112" QUniqId="10112" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 40</name>
+				<title>Câu hỏi 40. Trong bảng tính Excel, điều kiện trong hàm IF được phát biểu dưới dạng một phép so sánh. Khi cần so sánh khác nhau thì sử dụng kí hiệu nào? </title>
+				<responses>
+					<response id="A"># </response>
+					<response id="B">&lt;&gt; </response>
+					<response id="C">&gt;&lt; </response>
+					<response id="D">&amp; </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10113" QUniqId="10113" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 41</name>
+				<title>Câu hỏi 41. Để luôn chỉ chọn in một vùng nào đó trong bảng tính Excel chúng ta cần thao tác? </title>
+				<responses>
+					<response id="A">Bôi đen vùng cần in, sau đó vào File/Print Area, chọn Set Print Area </response>
+					<response id="B">Vào File/Print, chọn OK  </response>
+					<response id="C">Cả 2 cách trên đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10114" QUniqId="10114" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 42</name>
+				<title>Câu hỏi 42. Khi làm ẩn thuộc tính đường lưới ô trong bảng tính Excel ta cần? </title>
+				<responses>
+					<response id="A">Vào Format/Row, chọn Hide </response>
+					<response id="B">Vào Tool/Option, tại thẻ View ta bỏ chọn mục Gridlines trong Window options  </response>
+					<response id="C">Không có tính năng này   </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10115" QUniqId="10115" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 43</name>
+				<title>Câu hỏi 43. Khi muốn lặp lại tiêu đề cột ở mỗi trang in, chúng ta cần thực hiện? </title>
+				<responses>
+					<response id="A">Vào File/Page Setup, chọn thẻ Sheet, tích vào mục Row and column headings  </response>
+					<response id="B">Trong Excel luôn mặc định sẵn khi in lặp lại tiêu đề </response>
+					<response id="C">Cả A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10116" QUniqId="10116" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 44</name>
+				<title>Câu hỏi 44. Để làm ẩn một cột bất kỳ trên bảng tính Excel ta chọn cột cần làm ẩn, sau đó? </title>
+				<responses>
+					<response id="A">Kích chuột phải lên cột chọn làm ẩn, nhấn Hide </response>
+					<response id="B">Vào Format/Column, chọn Hide  </response>
+					<response id="C">Cả A và B đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10117" QUniqId="10117" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 45</name>
+				<title>Câu hỏi 45. Khi đánh công thức tính toán trong Excel, nếu đúng sẽ cho ra kết quả của phép tính đó khi in ra giấy. Vậy để in các công thức mình vừa đánh ra thì? </title>
+				<responses>
+					<response id="A">Bỏ đi dấu bằng "=" ở đầu mỗi phép tính </response>
+					<response id="B">Vào Tool/Options, chọn thẻ View, tích vào mục Formulas trong Window options  </response>
+					<response id="C">]--Cả A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10118" QUniqId="10118" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 46</name>
+				<title>Câu hỏi 46. Để thiết lập chế độ lưu tự động trên Excel dự phòng khi có sự cố xảy ra, ta cần? </title>
+				<responses>
+					<response id="A">Vào File/Save để lưu </response>
+					<response id="B">Vào Tool/Options, chọn thẻ Save, tích vào ô Save AutoRecover info every, sau đó điền số phút tự động lưu  </response>
+					<response id="C">Cả A và B đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10119" QUniqId="10119" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 47</name>
+				<title>Câu hỏi 47. Tài liệu Excel sau khi được đánh được lưu mặc định trong My Document. Vậy để thay đổi nơi mặc định khi lưu cần? </title>
+				<responses>
+					<response id="A">Vào Tool/Options, chọn thẻ General, thay đổi đường dẫn mới ở mục Default file location </response>
+					<response id="B">Vào File/Save As, chọn vị trí cần lưu </response>
+					<response id="C">Cả A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10120" QUniqId="10120" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 48</name>
+				<title>Câu hỏi 48. Khi vào File/Page Setup, chúng ta chọn thẻ Margins để làm gì? </title>
+				<responses>
+					<response id="A">Chỉnh cỡ giấy khi in </response>
+					<response id="B">Chỉnh hướng giấy in </response>
+					<response id="C">Căn chỉnh lề đoạn văn cần in </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10121" QUniqId="10121" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 49</name>
+				<title>Câu hỏi 49. Khi vào Format/Cells, thẻ Border có tác dụng gì? </title>
+				<responses>
+					<response id="A">Chỉnh Font chữ cho đoạn văn </response>
+					<response id="B">Tạo khung viền cho bảng tính cần chọn  </response>
+					<response id="C">Chỉnh màu cho chữ </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10145" QUniqId="10145" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 50</name>
+				<title>Câu hỏi 50. Hàm nào sai trong các hàm số sau?</title>
+				<responses>
+					<response id="A">=MOD(số 1, số 2): hàm cho kết quả là phần dư của phép chia </response>
+					<response id="B">=INT(số 1, số 2): hàm cho kết quả là phần nguyên của phép chia </response>
+					<response id="C">=AVERAGE(số 1, số 2, …): hàm cho kết quả là trung bình cộng của dãy số </response>
+					<response id="D">MIN(số 1, số 2, …): hàm cho kết quả là số nhỏ nhất của dãy số </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>

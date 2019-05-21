@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 10.0" version="1.0">
+	<objective id="Quiz10004" max-score="100" passing-score="55" min-score="0">
+		<name>Câu hỏi</name>
+		<interactions>
+			<interaction id="Interaction10010" QUniqId="10010" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>Câu hỏi 1. PowerPoint có thể làm những gì? </title>
+				<responses>
+					<response id="A">Tạo các bài trình diễn trên màn hình </response>
+					<response id="B">In các overhead màu hoặc trắng đen </response>
+					<response id="C">Tạo các handout cho khách dự hội thảo </response>
+					<response id="D">Tất cả các phương án trên. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10074" QUniqId="10074" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 2</name>
+				<title>Câu hỏi 2. Để khởi động Powerpoint, ta thực hiện:</title>
+				<responses>
+					<response id="A">Start  Program  Microsoft Office  Microsoft Powerpoint </response>
+					<response id="B">Program  Start  Microsoft Office  Powerpoint </response>
+					<response id="C">Start  Microsoft Office  Powerpoint  Program </response>
+					<response id="D">Star  Program  Powerpoint </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10075" QUniqId="10075" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 3</name>
+				<title>Câu hỏi 3. Trong Powerpoint có thể tạo một bản trình diễn mới từ: </title>
+				<responses>
+					<response id="A">Sử dụng một trình diễn trống (Use Blank) </response>
+					<response id="B">Sử dụng một trình diễn có sẵn (Design Template) </response>
+					<response id="C">Sử dụng một trình dựa trên một trình diễn có sẵn </response>
+					<response id="D">Tất cả các phương án trên. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10076" QUniqId="10076" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 4</name>
+				<title>Câu hỏi 4. Mỗi trang trình diễn trong PowerPoint được gọi là: </title>
+				<responses>
+					<response id="A">Một Document </response>
+					<response id="B">Một Slide </response>
+					<response id="C">Một File </response>
+					<response id="D">Tất cả các câu trên đều sai. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10077" QUniqId="10077" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 5</name>
+				<title>Câu hỏi 5. Muốn mở tập tin  đã tồn tại trên đĩa, ta phải: </title>
+				<responses>
+					<response id="A">chọn File  Open. </response>
+					<response id="B">chọn File  New. </response>
+					<response id="C">chọn File  Save </response>
+					<response id="D">chọn File  Save as </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10078" QUniqId="10078" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 6</name>
+				<title>Câu hỏi 6. Muốn mở tập tin đã tồn tại trên đĩa,  sau khi khởi động Powerpoint ta nhấn tổ hợp phím: </title>
+				<responses>
+					<response id="A">Ctrl + O </response>
+					<response id="B">Ctrl + N </response>
+					<response id="C">Ctrl + S </response>
+					<response id="D">Ctrl + C </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10079" QUniqId="10079" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 7</name>
+				<title>Câu hỏi 7. Muốn mở 1 slide mới ta nhấn tổ hợp phím nào: </title>
+				<responses>
+					<response id="A">Ctrl + A </response>
+					<response id="B">Ctrl + C </response>
+					<response id="C">Ctrl + M </response>
+					<response id="D">Ctrl + V </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10080" QUniqId="10080" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 8</name>
+				<title>Câu hỏi 8. Để hủy bỏ thao tác vừa thực hiệ ta nhấn tổ hợp phím: </title>
+				<responses>
+					<response id="A">Ctrl + X </response>
+					<response id="B">Ctrl + Z </response>
+					<response id="C">Ctrl + C </response>
+					<response id="D">Ctrl + V  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10081" QUniqId="10081" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 9</name>
+				<title>Câu hỏi 9. Để lưu tập tin đang mở , ta có thể: </title>
+				<responses>
+					<response id="A">chọn File  Open </response>
+					<response id="B">chọn File  New </response>
+					<response id="C">chọn File  Save </response>
+					<response id="D">chọn File  Save as </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10082" QUniqId="10082" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 10</name>
+				<title>Câu hỏi 10. Nhấn tổ hợp phím nào để làm mất đi đối tượng đã chọn trên slide hiện hành: </title>
+				<responses>
+					<response id="A">Alt + X </response>
+					<response id="B">Shift + X </response>
+					<response id="C">Ctrl + X </response>
+					<response id="D">Ctrl +  Shift + X </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10083" QUniqId="10083" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 11</name>
+				<title>Câu hỏi 11. Muốn xóa slide hiện thời người thiết kế phải: </title>
+				<responses>
+					<response id="A">Chọn tất cả các đối tượng trên slide và nhấn phím Delete </response>
+					<response id="B">Chọn tất cả các đối tượng trên slide và nhấn Backspace </response>
+					<response id="C">Nhấn chuột phải  Delete slide </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10084" QUniqId="10084" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 12</name>
+				<title>Câu hỏi 12. Đang trình chiếu 1 bài diễn, muốn dừng trình diễn ta nhấn phím:</title>
+				<responses>
+					<response id="A">Tab </response>
+					<response id="B">Esc </response>
+					<response id="C">Home </response>
+					<response id="D">End </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10085" QUniqId="10085" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 13</name>
+				<title>Câu hỏi 13. Để thực hiện việc chèn bảng biểu vào slide ta phải:</title>
+				<responses>
+					<response id="A">Chọn Table  Insert Table </response>
+					<response id="B">Chọn Table  Insert </response>
+					<response id="C">Chọn Insert  Table </response>
+					<response id="D">Chọn Format  Table </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10086" QUniqId="10086" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 14</name>
+				<title>Câu hỏi 14. Để đánh số trang trong các slide. Ta thực hiện lệnh nào:</title>
+				<responses>
+					<response id="A">Chọn Insert  chọn slide numbre </response>
+					<response id="B">Chọn Insert  silde </response>
+					<response id="C">Chọn View  slide numbre </response>
+					<response id="D">Chọn View  slide </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10087" QUniqId="10087" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 15</name>
+				<title>Câu hỏi 15. Thêm 1 slide giống trước ta dùng tổ hợp phím lệnh nào sau đây?</title>
+				<responses>
+					<response id="A">Alt + L +O </response>
+					<response id="B">Alt + I + D </response>
+					<response id="C">Alt + T + D </response>
+					<response id="D">Alt + A + D </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10088" QUniqId="10088" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 16</name>
+				<title>Câu hỏi 16. Muốn tô nền cho 1 textbox trong slide hiện hành, sau khi đã chọn Textbox đó ta thực hiện </title>
+				<responses>
+					<response id="A">Chọn View-&gt; Chọn Placcholder và chọn màu cần tô </response>
+					<response id="B">Chọn Format -&gt;Chọn Placcholder và chọn màu cần tô </response>
+					<response id="C">Chọn view -&gt; Chọn Background và chọn màu cần tô </response>
+					<response id="D">Chọn Format -&gt;Chọn Background và chọn màu cần tô </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10089" QUniqId="10089" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 17</name>
+				<title>Câu hỏi 17. Để huỷ bỏ thao tác vừa thực hiện ta nhấn tổ hợp phím: </title>
+				<responses>
+					<response id="A">Ctrl + Z </response>
+					<response id="B">Ctrl + C </response>
+					<response id="C">Ctrl + V </response>
+					<response id="D">Ctrl + X </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10090" QUniqId="10090" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 18</name>
+				<title>Câu hỏi 18. Tại một slide ta dùng tổ hợp phím nào sau đây sẽ xoá slide đó?</title>
+				<responses>
+					<response id="A">Alt + I + D </response>
+					<response id="B">Alt + E + F </response>
+					<response id="C">Alt + E + D </response>
+					<response id="D">Alt + W + P </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10091" QUniqId="10091" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 19</name>
+				<title>Câu hỏi 19. Để đưa họ tên của mình vào cuối mỗi slide làm tiêu đề chân trang, người thiết kế phải: </title>
+				<responses>
+					<response id="A">Chọn view -&gt; chọn Header and Footer-&gt; Chọn thẻ Slide, nhập họ tên vào hộp thoại FOOTER và nhấn Apply to All. </response>
+					<response id="B">Chọn Chọn view -&gt; chọn Header and Footer-&gt; Chọn thẻ Slide, nhập họ tên vào hộp thoại FOOTER và nhấn Apply </response>
+					<response id="C">Chọn Chọn view -&gt; chọn Header and Footer-&gt; Chọn thẻ Slide, nhập họ tên vào hộp thoại FOOTER và nhấn Apply </response>
+					<response id="D">Chọn Insert -&gt; chọn Header and Footer-&gt; Chọn thẻ Slide, nhập họ tên vào hộp thoại FOOTER và nhấn Apply </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10092" QUniqId="10092" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 20</name>
+				<title>Câu hỏi 20. Thêm một slide rỗng ta dùng tổ hợp phím nào sau đây ? </title>
+				<responses>
+					<response id="A">Alt + W + N </response>
+					<response id="B">Alt +  I + N </response>
+					<response id="C">Alt + T + N </response>
+					<response id="D">Alt + F + N </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10093" QUniqId="10093" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 21</name>
+				<title>Câu hỏi 21. Để tạo một slide giống hệt slide hiện hành mà không phải thiết kế lại, người sử dụng cần chọn: </title>
+				<responses>
+					<response id="A">Vào Insert  New slide </response>
+					<response id="B">Vào Insert  Duplicate </response>
+					<response id="C">Vào Insert  Duplicate slide </response>
+					<response id="D">Không thực hiện được </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10094" QUniqId="10094" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 22</name>
+				<title>Câu hỏi 22. Muốn chữ "Powerpoint" trong một văn bản định dạng thành "Powerpoint" ta:</title>
+				<responses>
+					<response id="A">Chỉ bôi đen chữ Power nhấn tổ hợp phím CTRL+U </response>
+					<response id="B">Nhấn tổ hợp phím CTRL+U+B </response>
+					<response id="C">Đưa con trỏ văn bản đến chữ "Powerpoint" và nhấn tổ hợp phím CTRL+U rồi CTRL + B (hoặc ngược lại) </response>
+					<response id="D">Nhấn tổ hợp phím CTRL+B </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10095" QUniqId="10095" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 23</name>
+				<title>Câu hỏi 23. Để thiết lập thông số trang in ta tực hiện: </title>
+				<responses>
+					<response id="A">Chọn File  Chọn Preview </response>
+					<response id="B">Chọn File Chọn Properties </response>
+					<response id="C">Chọn File  Chọn print </response>
+					<response id="D">Chọn File  Chọn Page Setup </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10096" QUniqId="10096" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 24</name>
+				<title>Câu hỏi 24. Sau khi đã thiết kế xong bài trình diễn, cách làm nào sau đây không phải để trình chiếu ngay bài trình diễn đó? </title>
+				<responses>
+					<response id="A">Chọn Slide Show  Custom Show </response>
+					<response id="B">Chọn Slide Show  View Show </response>
+					<response id="C">Chọn View  Slide Show </response>
+					<response id="D">Nhấn phím F5 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10097" QUniqId="10097" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 25</name>
+				<title>Câu hỏi 25. Trong khi thiết kế giáo án điện tử, thực hiện thao tác chọn Insert -&gt; New Slide là để: </title>
+				<responses>
+					<response id="A">Chèn thêm một slide mới vào ngay trước slide hiện hành </response>
+					<response id="B">Chèn thêm một slide mới vào ngay sau slide hiện hành </response>
+					<response id="C">Chèn thêm một slide mới vào ngay sau slide cuối cùng </response>
+					<response id="D">Chèn thêm một slide mới vào ngay trước slide đầu tiên </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10098" QUniqId="10098" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 26</name>
+				<title>Câu hỏi 26. Để căn lề cho một đoạn văn bản nào đó trong giáo án điện tử đang thiết kế, trước tiên ta phải: </title>
+				<responses>
+					<response id="A">Đưa con trỏ văn bản vào giữa đoạn văn bản cần căn lề </response>
+					<response id="B">Chọn cả đoạn văn bản cần căn lề </response>
+					<response id="C">Chọn một dòng bất kỳ trong đoạn văn bản cần căn lề </response>
+					<response id="D">Cả 3 cách nêu trong câu này đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10099" QUniqId="10099" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 27</name>
+				<title>Câu hỏi 27. Để lưu một đoạn văn bản đã được chọn vào vùng nhớ đệm (clipboard) mà không làm mất đi đoạn văn bản đó ta nhấn tổ hợp phím: </title>
+				<responses>
+					<response id="A">Ctrl + X </response>
+					<response id="B">Ctrl + Z </response>
+					<response id="C">Ctrl + V  </response>
+					<response id="D">Ctrl + C </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10100" QUniqId="10100" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 28</name>
+				<title>Câu hỏi 28. Đang thiết kế giáo án điện tử, trước khi thoát khỏi PowerPoint nếu người sử dụng chưa lưu lại tập tin thì máy sẽ hiện một thông báo. Để lưu lại tập tin này ta sẽ kích chuột trái vào nút nào trong bảng thông báo này? </title>
+				<responses>
+					<response id="A">Nút Don’t Save </response>
+					<response id="B">Nút Save </response>
+					<response id="C">Nút Cancel </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10101" QUniqId="10101" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 29</name>
+				<title>Câu hỏi 29. Muốn kẽ đường viền màu xanh cho một Text Box trong giáo án điện tử, sau khi chọn Format -&gt; Text Box, chọn thẻ Color and Lines và  </title>
+				<responses>
+					<response id="A">Chọn màu xanh trong ô Color ngay dưới chữ Fill </response>
+					<response id="B">Chọn màu xanh trong ô Color ngay dưới chữ Line </response>
+					<response id="C">Chọn màu xanh trong ô Color ngay dưới chữ Line hoặc Fill đều đúng </response>
+					<response id="D">Chọn màu xanh trong ô Color ngay dưới chữ Line hoặc Fill đều sai  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10102" QUniqId="10102" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 30</name>
+				<title>Câu hỏi 30. Thực hiện thao tác chọn Slide Show -&gt; Custom Animation là để </title>
+				<responses>
+					<response id="A">Tạo hiệu ứng động cho một đối tượng trong slide </response>
+					<response id="B">Tạo hiệu ứng chuyển trang cho các slide trong bài trình diễn Chỉ được phép chèn âm thanh vào giáo án </response>
+					<response id="C">Đưa hình ảnh hoặc âm thanh vào bài trình diễn </response>
+					<response id="D">Định dạng cách bố trí các khối văn bản, hình ảnh, đồ thị ... cho một slide </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10103" QUniqId="10103" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 31</name>
+				<title>Câu hỏi 31. PowerPoint cho phép người sử dụng thiết kế một slide chủ chứa các định dạng chung của toàn bộ các slide trong bài trình diễn. Để thực hiện điều này, người dùng phải </title>
+				<responses>
+					<response id="A">Chọn Insert  Master Slide </response>
+					<response id="B">Chọn Insert  Slide Master </response>
+					<response id="C">Chọn View  Master  Slide Master </response>
+					<response id="D">Chọn View  Slide Master  Master </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10104" QUniqId="10104" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 32</name>
+				<title>Câu hỏi 32. Máy tính đang kết nối Internet, sử dụng siêu liên kết (Hyperlink) sẽ cho phép người dùng liên kết đến: </title>
+				<responses>
+					<response id="A">Chỉ các tập tin có sẵn trong các ổ đĩa của máy tính đang soạn thảo </response>
+					<response id="B">Chỉ các slide đã có trong giáo án đang soạn thảo </response>
+					<response id="C">Chỉ các trang Web có trên mạng </response>
+					<response id="D">Tất cả các tập tin, các slide đã có trong máy và các trang Web </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10105" QUniqId="10105" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 33</name>
+				<title>Câu hỏi 33. Khi thực hiện thao tác chọn Insert -&gt; Movies and Sounds người sử dụng </title>
+				<responses>
+					<response id="A">Chỉ được phép chèn hình ảnh vào giáo án </response>
+					<response id="B">Chỉ được phép chèn âm thanh vào giáo án </response>
+					<response id="C">Chỉ được phép chèn phim vào giáo án </response>
+					<response id="D">Có thể chèn cả âm thanh hoặc phim vào giáo án </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10106" QUniqId="10106" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 34</name>
+				<title>Câu hỏi 34. Nếu chọn 3 ô liên tiếp trên cùng một cột của bảng biểu, đưa chuột vào vùng ô đó, nhấn chuột phải và chọn </title>
+				<responses>
+					<response id="A">Thêm vào bảng 3 ô </response>
+					<response id="B">Thêm vào bảng 3 dòng </response>
+					<response id="C">Thêm vào bảng 3 cột </response>
+					<response id="D">Thêm vào bảng 1 dòng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10107" QUniqId="10107" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 35</name>
+				<title>Câu hỏi 35. Muốn bật hoặc tắt thanh công cụ Drawing trên màn hình PowerPoint, người sử dụng phải </title>
+				<responses>
+					<response id="A">Chọn Insert  Drawing </response>
+					<response id="B">Chọn Insert  Toolbar  Drawing </response>
+					<response id="C">Chọn View  Toolbar  Drawing </response>
+					<response id="D">Chọn View  Drawing </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10108" QUniqId="10108" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 36</name>
+				<title>Câu hỏi 36. Muốn dùng một hình ảnh nào đó đã có trong đĩa để làm nền cho các slide trong giáo án điện tử, sau khi chọn Format -&gt; Background -&gt; Fill Effects ta chọn </title>
+				<responses>
+					<response id="A">Picture </response>
+					<response id="B">Texture </response>
+					<response id="C">Pattern </response>
+					<response id="D">Gradient </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10109" QUniqId="10109" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 37</name>
+				<title>Câu hỏi 37. Khi đang trình chiếu (Slide Show) một bài trình diễn, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, ta phải </title>
+				<responses>
+					<response id="A">Nhấn tổ hợp phím Ctrl + Tab </response>
+					<response id="B">Nhấn tổ hợp phím Shift + Tab </response>
+					<response id="C">Nhấn tổ hợp phím Alt + Tab </response>
+					<response id="D">Nhấn tổ hợp phím Esc + Tab </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10110" QUniqId="10110" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 38</name>
+				<title>Câu hỏi 38. Âm thanh đưa vào bài trình diễn </title>
+				<responses>
+					<response id="A">Thực hiện được chỉ khi tạo hiệu ứng động cho đối tượng trong slide </response>
+					<response id="B">Thực hiện được chỉ khi tạo hiệu ứng chuyển trang giữa các slide </response>
+					<response id="C">Thực hiện được cả khi tạo hiệu ứng động và hiệu ứng chuyển trang </response>
+					<response id="D">Không thực hiện được cả khi tạo hiệu ứng động và hiệu ứng chuyển trang </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10111" QUniqId="10111" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 39</name>
+				<title>Câu hỏi 39. Muốn xoá đi một cột bảng biểu trong Slide hiện hành ta thực hiện lệnh: </title>
+				<responses>
+					<response id="A">Chọn cột đó, nhấn chuột phải lên vùng đã chọn và chọn Delete columns </response>
+					<response id="B">Nhấn chụôt phải lên vùng bất kỳ thuộc cột đó và nhấn phím Delete </response>
+					<response id="C">Đưa trỏ vào văn bản vào ô bất kỳ thuộc cột đó và nhấn phím Delete </response>
+					<response id="D">Chọn cột đó, nhấn chuột phải lên vùng đã chọn và nhấn phím Delete </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10112" QUniqId="10112" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 40</name>
+				<title>Câu hỏi 40. : Để các slide đều có tên của mình khi trình chiếu ta vào chọn? (sau đó gõ vào Footer) </title>
+				<responses>
+					<response id="A">Chọn View  Header and Footer </response>
+					<response id="B">Chọn View  Footer and Header </response>
+					<response id="C">Chọn Insert  Chọn Header </response>
+					<response id="D">Chọn Insert  Footer </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10113" QUniqId="10113" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 41</name>
+				<title>Câu hỏi 41. Khi đang làm việc với PowerPoint, muốn thiết lập lại bố cục (trình bày về văn bản, hình ảnh, biểu đồ,...) của Slide, ta thực hiện: </title>
+				<responses>
+					<response id="A">Format - Slide Layout... </response>
+					<response id="B">View - Slide Layout... </response>
+					<response id="C">Insert - Slide Layout... </response>
+					<response id="D">File - Slide Layout... </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10114" QUniqId="10114" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 42</name>
+				<title>Câu hỏi 42. Khi đang làm việc với PowerPoint, muốn trình diễn tài liệu được soạn thảo, ta thực hiện: </title>
+				<responses>
+					<response id="A">File - View Show </response>
+					<response id="B">Window - View Show </response>
+					<response id="C">Slide Show - View Show </response>
+					<response id="D">Tools - View Show </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10115" QUniqId="10115" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 43</name>
+				<title>Câu hỏi 43. Khi đang làm việc với PowerPoint, để chèn thêm một Slide mới, ta thực hiện: </title>
+				<responses>
+					<response id="A">Edit - New Slide </response>
+					<response id="B">File - New Slide </response>
+					<response id="C">Slide Show - New Slide </response>
+					<response id="D">Insert - New Slide  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10116" QUniqId="10116" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 44</name>
+				<title>Câu hỏi 44. Khi đang làm việc với PowerPoint, muốn thay đổi thiết kế của Slide, ta thực hiện: </title>
+				<responses>
+					<response id="A">Format - Slide Design... </response>
+					<response id="B">Tools - Slide Design... </response>
+					<response id="C">Insert - Slide Design... </response>
+					<response id="D">Slide Show – Slide Design... </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10117" QUniqId="10117" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 45</name>
+				<title>Câu hỏi 45. Trong Powerpoint, muốn tạo một sơ đồ tổ chức, ta dùng lệnh hay thao tác nào sau đây: </title>
+				<responses>
+					<response id="A">Insert + Picture Organization Chart </response>
+					<response id="B">Chọn Slide Organization Chart </response>
+					<response id="C">Các câu A và B đều đúng </response>
+					<response id="D">Các câu A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10118" QUniqId="10118" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 46</name>
+				<title>Câu hỏi 46. Trong Powerpoint muốn chèn một đoạn âm thanh vào Slide, ta dùng lệnh hay tổ hợp phím nào sau đây: </title>
+				<responses>
+					<response id="A">Insert \ Object </response>
+					<response id="B">Insert \ Component </response>
+					<response id="C">Insert \ Diagram </response>
+					<response id="D">Insert \ Comment </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10119" QUniqId="10119" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 47</name>
+				<title>Câu hỏi 47. Trong Powerpoint muốn chèn các Slide từ 1 tập tin khác vào tập tin đang mở, ta dùng lệnh hay thao tác nào sau đây: </title>
+				<responses>
+					<response id="A">Insert \ Slides from Files </response>
+					<response id="B">File \ Import </response>
+					<response id="C">Insert \ Duplicate Slide </response>
+					<response id="D">Insert \ New Slide </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10120" QUniqId="10120" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 48</name>
+				<title>Câu hỏi 48. Trong Powerpoint khi cần dùng các ký hiệu toán học như căn số, phân số, dấu tích phân, dấu góc, các phép toán so sánh, các ký hiệu đặc biệt…, thực hiện như sau: </title>
+				<responses>
+					<response id="A">Insert + Object + Microsoft Equation 3.0 </response>
+					<response id="B">Format + Object + Microsoft Equation 3.0 </response>
+					<response id="C">Cả A và B đều đúng </response>
+					<response id="D">Cả A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10121" QUniqId="10121" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 49</name>
+				<title>Câu hỏi 49. Trong Powerpoint để sử dụng những Slide đã định dạng sẵn ta thực hiện:</title>
+				<responses>
+					<response id="A">Kích chọn File \ New \ From Design Template </response>
+					<response id="B">Kích chọn File \ New \ From Existing Presentation </response>
+					<response id="C">Kích chọn File \ New \ From AutoContent wizard </response>
+					<response id="D">Kích chọn File \ New \ Photo album </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10122" QUniqId="10122" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 50</name>
+				<title>Câu hỏi 50. Trong Powerpoint muốn chèn một ký hiệu vào Slide ta dùng lệnh nào sau đây: </title>
+				<responses>
+					<response id="A">Insert \ Diagram </response>
+					<response id="B">Insert \ Component </response>
+					<response id="C">Insert \ Comment </response>
+					<response id="D">Insert \ Symbol </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 10.0" version="1.0">
+	<objective id="Quiz10004" max-score="100" passing-score="55" min-score="0">
+		<name>Câu hỏi</name>
+		<interactions>
+			<interaction id="Interaction10074" QUniqId="10074" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>Câu hỏi 1. Để phóng lớn /thu nhỏ tài liệu trong Microsoft Word 2010 ta cần thực hiện cách nào </title>
+				<responses>
+					<response id="A">-</response>
+					<response id="B">Điều khiển thanh trượt zoom ở góc bên phải dưới màn hình Word </response>
+					<response id="C">Cả A và B đều đúng </response>
+					<response id="D">Cả A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10075" QUniqId="10075" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 2</name>
+				<title>Câu hỏi 2. Có thể thoát chương trình Microsoft Word 2010 bằng cách:</title>
+				<responses>
+					<response id="A">Kích đúp chuột vào thẻ File/Close </response>
+					<response id="B">Bấm tổ hợp Ctrl + F4 </response>
+					<response id="C">Click vào biểu tượng Close () cửa sổ của chương trình  </response>
+					<response id="D">Cả 3 đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10076" QUniqId="10076" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 3</name>
+				<title>Câu hỏi 3. Bấm tổ hợp phím Ctrl + O trong Microsoft Word 10 sẽ thực hiện chức năng gì:</title>
+				<responses>
+					<response id="A">Mở một tài liệu mới </response>
+					<response id="B">Mở một tài liệu có sẵn trong đĩa  </response>
+					<response id="C">Lưu một tài liệu </response>
+					<response id="D">Đóng chương trình Microsoft Word </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10077" QUniqId="10077" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 4</name>
+				<title>Câu hỏi 4. Bấm Ctrl +S trong Word thực hiện điều gì: </title>
+				<responses>
+					<response id="A">Mở một tài liệu mới </response>
+					<response id="B">một tài liệu có sẵn trong đĩa </response>
+					<response id="C">Lưu một tài liệu hiện tại </response>
+					<response id="D">Đóng chương trình Microsoft Word </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10078" QUniqId="10078" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 5</name>
+				<title>Câu hỏi 5. Bấm Ctrl + B trong Word thực hiện chức năng gì cho khối văn bản đang chọn </title>
+				<responses>
+					<response id="A">Bật /Tắt chữa in đậm </response>
+					<response id="B">Bật/Tắt chữ nghiêng </response>
+					<response id="C">Bật/Tắt chữ gạch chân </response>
+					<response id="D">Bật /Tắt chữ chỉ số dưới (Bottom) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10079" QUniqId="10079" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 6</name>
+				<title>Câu hỏi 6. Bấm Ctrl + U trong Word thực hiện chức năng gì cho khối văn bản đang chọn: </title>
+				<responses>
+					<response id="A">Bật/Tắt chữ đậm </response>
+					<response id="B">Bật/Tắt chữ nghiêng </response>
+					<response id="C">Bật/Tắt chữ gạch chân </response>
+					<response id="D">Bật/Tắt chữ chỉ số dưới (Bottom) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10080" QUniqId="10080" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 7</name>
+				<title>Câu hỏi 7. Bấm Ctrl + Shift + = trong Word thực hiên chức năng gì cho khôi văn bản đang chọn: </title>
+				<responses>
+					<response id="A">Bật /Tắt chữ chỉ số trên </response>
+					<response id="B">Bật/Tắt chữ chỉ số dưới </response>
+					<response id="C">Bật/Tắt chữ hoa </response>
+					<response id="D">Bật/Tắt chữ thường </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10081" QUniqId="10081" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 8</name>
+				<title>Câu hỏi 8. Bấm Ctrl + = trong Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn: </title>
+				<responses>
+					<response id="A">Bật/Tắt chữ chỉ số trên </response>
+					<response id="B">Bật/Tắt chữ chỉ số dưới </response>
+					<response id="C">Bật/Tắt chữ hoa </response>
+					<response id="D">Bật/Tắt chữ thường </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10082" QUniqId="10082" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 9</name>
+				<title>Câu hỏi 9. Bấm Ctrl + H trong Word sẽ thực hiện chức năng gì: </title>
+				<responses>
+					<response id="A">Chức năng thay thế   </response>
+					<response id="B">Tạo tệp văn bản mới </response>
+					<response id="C">Định dạng chữ hoa </response>
+					<response id="D">Lưu tệp văn bản </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10083" QUniqId="10083" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 10</name>
+				<title>Câu hỏi 10. Muốn kết thúc Word ta sử dụng: </title>
+				<responses>
+					<response id="A">File/Edit </response>
+					<response id="B">Table/Close </response>
+					<response id="C">Tools/Edit </response>
+					<response id="D">File/Close  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10084" QUniqId="10084" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 11</name>
+				<title>Câu hỏi 11. Bấm Ctrl + [ trong Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn</title>
+				<responses>
+					<response id="A">Tăng 1 cỡ chữ  </response>
+					<response id="B">Giảm 1 cỡ chữ  </response>
+					<response id="C">Tăng 2 cỡ chữ </response>
+					<response id="D">Giảm 2 cỡ chữ </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10085" QUniqId="10085" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 12</name>
+				<title>Câu hỏi 12. Bấm Ctrl+] trong Word sẽ thực hiện chức năng gì cho khối văn bản đang chọn</title>
+				<responses>
+					<response id="A">Tăng 1 cỡ chữ  </response>
+					<response id="B">Giảm 1 cỡ chữ  </response>
+					<response id="C">Tăng 2 cỡ  chữ </response>
+					<response id="D">Giảm 2 cỡ chữ </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10086" QUniqId="10086" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 13</name>
+				<title>Câu hỏi 13. Bấm Ctrl+L trong Word sẽ thực hiện chức năng gì</title>
+				<responses>
+					<response id="A">Bật/tắt căn thẳng lề trái </response>
+					<response id="B">Bật/tắt căn thẳng lề phải  </response>
+					<response id="C">Bật/tắt căn vào giữa dòng </response>
+					<response id="D">Bật/tắt căn thẳng hai lề trái phải </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10087" QUniqId="10087" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 14</name>
+				<title>Câu hỏi 14. Bấm Ctrl+R trong Word sẽ thực hiện chức năng gì</title>
+				<responses>
+					<response id="A">Bật/tắt căn thẳng lề trái </response>
+					<response id="B">Bật/tắt căn thẳng lề phải </response>
+					<response id="C">Bật/tắt căn vào giữa dòng </response>
+					<response id="D">Bật/tắt căn thẳng hai lề trái phải </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10088" QUniqId="10088" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 15</name>
+				<title>Câu hỏi 15. Bấm Ctrl+E trong Word sẽ thực hiện chức năng gì</title>
+				<responses>
+					<response id="A">Bật/tắt căn thẳng lề trái </response>
+					<response id="B">Bật/tắt căn thẳng lề phải  </response>
+					<response id="C">Bật/tắt căn vào giữa dòng </response>
+					<response id="D">Bật/tắt căn thẳng hai lề trái phải </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10089" QUniqId="10089" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 16</name>
+				<title>Câu hỏi 16. Microsoft Word là gì: </title>
+				<responses>
+					<response id="A">Chương trình bảng tính </response>
+					<response id="B">Phần mềm ứng dụng </response>
+					<response id="C">Phần mềm quản lý </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10090" QUniqId="10090" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 17</name>
+				<title>Câu hỏi 17. Trong Word 2003 chọn cách nào để mở 1 trang văn bản mới: </title>
+				<responses>
+					<response id="A">Nhấn tổ hợp Ctrl+N </response>
+					<response id="B">Chọn File/Open </response>
+					<response id="C">Nhấn tổ hợp Ctrl+Shift+N </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10091" QUniqId="10091" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 18</name>
+				<title>Câu hỏi 18. File văn bản của Microsoft Word 2003 có phần mở rộng là gì: </title>
+				<responses>
+					<response id="A">*.doc </response>
+					<response id="B">*.docx </response>
+					<response id="C">*.txt </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10092" QUniqId="10092" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 19</name>
+				<title>Câu hỏi 19. Trong Word để đóng tài liệu đang mở ta thực hiện: </title>
+				<responses>
+					<response id="A">Ctrl+F4 </response>
+					<response id="B">Alt+F4  </response>
+					<response id="C">Shift+F4 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10093" QUniqId="10093" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 20</name>
+				<title>Câu hỏi 20. Trong Microsoft Word muốn kẻ đường thẳng cho thật thẳng phải nhấn phím gì trước khi kéo chuột: </title>
+				<responses>
+					<response id="A">. Ctrl  </response>
+					<response id="B">Shift  </response>
+					<response id="C">Ctrl+Alt </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10094" QUniqId="10094" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 21</name>
+				<title>Câu hỏi 21. Trong Microsoft Word sử dụng phím nào để xóa kí tự đứng trước con trỏ soạn thảo: </title>
+				<responses>
+					<response id="A">Backspace </response>
+					<response id="B">End  </response>
+					<response id="C">Delete (hoặc Del) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10095" QUniqId="10095" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 22</name>
+				<title>Câu hỏi 22. Trong Microsoft Word chọn cách nào để hiển thị trang trước khi in ra màn hình</title>
+				<responses>
+					<response id="A">Chọn View/Print Preview </response>
+					<response id="B">Chọn Tools/Print Preview </response>
+					<response id="C">Chọn File/Print Preview </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10096" QUniqId="10096" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 23</name>
+				<title>Câu hỏi 23. Trong Microsoft Word để lưu tài liệu đang mở sang một tên khác chọn cách nào</title>
+				<responses>
+					<response id="A">Chọn File/Save As </response>
+					<response id="B">Nhấn tổ hợp Ctrl+S </response>
+					<response id="C">Chọn File/Save </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10097" QUniqId="10097" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 24</name>
+				<title>Câu hỏi 24. Trong Microsoft Word để di chuyển con trỏ soạn thảo về đầu văn bản dùng tổ hợp phím nào</title>
+				<responses>
+					<response id="A">Home </response>
+					<response id="B">Ctrl+Shift+Home </response>
+					<response id="C">Ctrl+Home </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10098" QUniqId="10098" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 25</name>
+				<title>Câu hỏi 25. Trong Microsoft Word để di chuyển con trỏ soạn thảo về cuối văn bản dùng tổ hợp phím nào</title>
+				<responses>
+					<response id="A">Ctrl+End </response>
+					<response id="B">End </response>
+					<response id="C">Ctrl+Shift+End </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10099" QUniqId="10099" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 26</name>
+				<title>Câu hỏi 26. Trong Microsoft Word thực hiện thao tác nào để cắt một đoạn văn bản đã chọn</title>
+				<responses>
+					<response id="A">Chọn Edit/Cut </response>
+					<response id="B">Chọn Tools/Cut </response>
+					<response id="C">Chọn File/Cut </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10100" QUniqId="10100" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 27</name>
+				<title>Câu hỏi 27. Trong Microsoft Word thực hiện thao tác nào để chuyển đến 2 trang tiếp theo nhanh nhất</title>
+				<responses>
+					<response id="A">Nhấn Page Down hai lần </response>
+					<response id="B">Nhấn Page Up hai lần </response>
+					<response id="C">Nhấn tổ hợp Ctrl+G, nhập +2 trong ô Enter Page Number chọn nút Go to </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10101" QUniqId="10101" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 28</name>
+				<title>Câu hỏi 28. Trong Micosoft Word thực hiện thao tác nào để in trang từ 2 đến 10</title>
+				<responses>
+					<response id="A">File/Print chọn Page nhập 2-10 </response>
+					<response id="B">File/Print chọn Page nhập 2 </response>
+					<response id="C">File/Print chọn Page nhập 10 </response>
+					<response id="D">File/Print chọn Page nhập 8 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10102" QUniqId="10102" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 29</name>
+				<title>Câu hỏi 29. Trong Microsoft Word thực hiện thao tác nào để lưu văn bản mới</title>
+				<responses>
+					<response id="A">Chọn File/Save </response>
+					<response id="B">Chọn Edit/Save </response>
+					<response id="C">Chọn Format/Save </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10103" QUniqId="10103" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 30</name>
+				<title>Câu hỏi 30. Trong Microsoft Word thực hiện thao tác nào để tang cỡ chữ lên 1 đơn vị của một đoạn văn bản đã chọn</title>
+				<responses>
+					<response id="A">Chọn tổ hợp phím Ctrl+[ </response>
+					<response id="B">Chọn tổ hợp phím Ctrl+] </response>
+					<response id="C">Nhấn tổ hợp Ctrl+&gt; </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10104" QUniqId="10104" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 31</name>
+				<title>Câu hỏi 31. Trong Microsoft Word nhóm font nào theo chuẩn Unicode</title>
+				<responses>
+					<response id="A">Time new roman, Arial, Tahoma </response>
+					<response id="B">Arial, Tahoma, VnTime </response>
+					<response id="C">VnTimeH, VnArial, VnTime </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10105" QUniqId="10105" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 32</name>
+				<title>Câu hỏi 32. Trong Microsoft Word nhóm font nào theo chuẩn TCVN3</title>
+				<responses>
+					<response id="A">Time new roman, Arial, Tahoma </response>
+					<response id="B">Arial, Tahoma, VnTime </response>
+					<response id="C">VnTimeH, VnArial, VnTime </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10106" QUniqId="10106" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 33</name>
+				<title>Câu hỏi 33. Trong Microsoft word cách nào để sao chép định dạng của một đoạn văn bản</title>
+				<responses>
+					<response id="A">Chọn Edit/Copy </response>
+					<response id="B">Nhấn tổ hợp Ctrl+C </response>
+					<response id="C">Chọn biểu tượng Format Painter </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10107" QUniqId="10107" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 34</name>
+				<title>Câu hỏi 34. Trong Microsoft word cách nào để sao chép định dạng chữ đậm cho một đoạn văn bản</title>
+				<responses>
+					<response id="A">Chọn biểu tượng Bold </response>
+					<response id="B">Chọn văn bản, chọn biểu tượng Bold </response>
+					<response id="C">Nhấn tổ hợp phím Ctrl+B </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10108" QUniqId="10108" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 35</name>
+				<title>Câu hỏi 35. Trong Microsoft Word thực hiện thao tác nào để canh giữa một đoạn văn bản đã chọn</title>
+				<responses>
+					<response id="A">Nhấn tổ hợp phím Alt+E </response>
+					<response id="B">Nhấn tổ hợp phím Ctrl+E </response>
+					<response id="C">Nhấn tổ hợp phím Shift+E </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10109" QUniqId="10109" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 36</name>
+				<title>Câu hỏi 36. Để chọn cỡ chữ trong Word ta thực hiện</title>
+				<responses>
+					<response id="A">Ctrl+Alt+P </response>
+					<response id="B">Ctrl+Shift+P </response>
+					<response id="C">Alt+Shift+P </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10110" QUniqId="10110" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 37</name>
+				<title>Câu hỏi 37. Trong Microsoft Word để xóa tất cả định dạng của văn bản ta sử dụng tổ hợp phím nào</title>
+				<responses>
+					<response id="A">Ctrl+Q </response>
+					<response id="B">Ctrl+Z </response>
+					<response id="C">Ctrl+U </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10111" QUniqId="10111" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 38</name>
+				<title>Câu hỏi 38. Trong Microsoft Word cách nào để định dạng khoảng cách dòng là 1.5 cho đoạn văn bản đã chọn</title>
+				<responses>
+					<response id="A">Nhấn tổ hợp Ctrl+15 </response>
+					<response id="B">Nhấn tổ hợp Ctrl+1 </response>
+					<response id="C">Nhấn tổ hợp Ctrl+2 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10112" QUniqId="10112" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 39</name>
+				<title>Câu hỏi 39. Thuộc tính định dạng kí tự cơ bản gồm có</title>
+				<responses>
+					<response id="A">Phông chữ và kiểu chữ </response>
+					<response id="B">Cỡ chữ và màu sắc </response>
+					<response id="C">Cả A và B đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10113" QUniqId="10113" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 40</name>
+				<title>Câu hỏi 40. Trong Word muốn định dạng trang ta dùng lệnh</title>
+				<responses>
+					<response id="A">File/Page Setup </response>
+					<response id="B">Edit/Page Setup </response>
+					<response id="C">Tool/Page Setup </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10114" QUniqId="10114" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 41</name>
+				<title>Câu hỏi 41. Để chia 1 ô thành nhiều ô, ta chọn ô cần tách rồi thực hiện thao tác: </title>
+				<responses>
+					<response id="A">Table/Split Cell </response>
+					<response id="B">Table/Select </response>
+					<response id="C">Windowns/Split Cell </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10115" QUniqId="10115" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 42</name>
+				<title>Câu hỏi 42. Muốn tạo bảng trong Word ta thực hiện thao tác</title>
+				<responses>
+					<response id="A">Table/Insert/Table </response>
+					<response id="B">Insert/Table/Table </response>
+					<response id="C">Table/Insert </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10116" QUniqId="10116" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 43</name>
+				<title>Câu hỏi 43. Trong Microsoft Word để tạo nhanh một văn bản để sử dụng cho lần sau cần sử dụng chức năng</title>
+				<responses>
+					<response id="A">AutoText </response>
+					<response id="B">AutoCorrect </response>
+					<response id="C">AutoStyle </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10117" QUniqId="10117" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 44</name>
+				<title>Câu hỏi 44. Trong Microsoft Word để thay đổi đơn vị thước đo ta chọn</title>
+				<responses>
+					<response id="A">Format/Tabs </response>
+					<response id="B">Format/Object </response>
+					<response id="C">Tools/Opitions/Genera </response>
+					<response id="D">Tools/Opitions/Vie </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10118" QUniqId="10118" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 45</name>
+				<title>Câu hỏi 45. Trong Microsoft Word cách nào để ngắt trang văn bản tại một vị trí bất kì</title>
+				<responses>
+					<response id="A">Nhấn tổ hợp phím Alt+Enter </response>
+					<response id="B">Nhấn tổ hợp phím Shift+Enter </response>
+					<response id="C">Nhấn tổ hợp phím Ctrl+Enter </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10119" QUniqId="10119" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 46</name>
+				<title>Câu hỏi 46. Cách nào để chèn hình ảnh vào văn bản ta thực hiện</title>
+				<responses>
+					<response id="A">Chọn Insert/Picture </response>
+					<response id="B">Chọn Insert/Auto text </response>
+					<response id="C">Chọn Insert/Object </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10120" QUniqId="10120" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 47</name>
+				<title>Câu hỏi 47. Trong Microsoft Word cách nào để định văn bản canh đều hai bên</title>
+				<responses>
+					<response id="A">Nhấn tổ hợp phím Ctrl+J </response>
+					<response id="B">Nhấn tổ hợp phím Ctrl+E </response>
+					<response id="C">Nhấn tổ hợp phím Ctrl+L </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10121" QUniqId="10121" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 48</name>
+				<title>Câu hỏi 48. Trong Microsoft Word cách nào để chèn số trang cho văn bản</title>
+				<responses>
+					<response id="A">Chọn Numbering </response>
+					<response id="B">Chọn Insert/Page Numbers </response>
+					<response id="C">Chọn Format/Bullets and Numbering </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10122" QUniqId="10122" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 49</name>
+				<title>Câu hỏi 49. Trong Microsoft Word cách nào để in văn bản</title>
+				<responses>
+					<response id="A">Ctrl+P </response>
+					<response id="B">Ctrl+R </response>
+					<response id="C">Ctrl+Shift+F12 </response>
+					<response id="D">Cả A và B đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10140" QUniqId="10140" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 50</name>
+				<title>Câu hỏi 50. Trong Microsoft Word cách nào để in văn bản</title>
+				<responses>
+					<response id="A">Ctrl+O </response>
+					<response id="B">Ctrl+N </response>
+					<response id="C">Ctrl+P </response>
+					<response id="D">Ctrl+S </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 10.0" version="1.0">
+	<objective id="Quiz10004" max-score="100" passing-score="55" min-score="0">
+		<name>Câu hỏi</name>
+		<interactions>
+			<interaction id="Interaction10010" QUniqId="10010" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>1.Trong "Hollywood cũ", mọi người thường bắt đầu sự nghiệp làm phim trong phòng biên tập. Tại sao?</title>
+				<responses>
+					<response id="A">Nó đã trả ít tiền nhất </response>
+					<response id="B">Đó là nhiệm vụ dễ dàng nhất đối với một người mới để học </response>
+					<response id="C">Nó không yêu cầu bất kỳ kỹ năng </response>
+					<response id="D">Nó cho phép những người mới tìm hiểu về tất cả các khía cạnh của việc làm phim. </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10074" QUniqId="10074" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 2</name>
+				<title>2. Điều gì ở trung tâm sản xuất video?</title>
+				<responses>
+					<response id="A">kịch bản </response>
+					<response id="B">chỉnh sửa </response>
+					<response id="C">quay phim </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10075" QUniqId="10075" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 3</name>
+				<title>3. Các biên tập viên nên sử dụng quyền lực của họ cho tốt và không xấu. Tại sao hướng dẫn này bao gồm tuyên bố này và nó có nghĩa là gì?</title>
+				<responses>
+					<response id="A">Người chỉnh sửa có thể xây dựng một câu chuyện để "nhìn" dù sao họ chọn </response>
+					<response id="B">Người chỉnh sửa có thể sử dụng các clip từ thời gian, địa điểm và con người khác nhau </response>
+					<response id="C">Biên tập viên thường bịa chuyện giả và nói dối </response>
+					<response id="D">Biên tập viên tập trung chủ yếu vào việc đánh lừa khán giả </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10076" QUniqId="10076" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 4</name>
+				<title>4. Thường được sử dụng để thiết lập cài đặt hoặc vị trí của phim, thứ tự phổ biến nhất cho chuỗi là gì?</title>
+				<responses>
+					<response id="A">bắt đầu với một cú đánh rộng và cắt sát </response>
+					<response id="B">bắt đầu với một cận cảnh và sau đó phóng to đến một cảnh rộng </response>
+					<response id="C">bắt đầu với một cảnh rộng và phóng to cận cảnh </response>
+					<response id="D">bắt đầu với một cận cảnh và sau đó cắt thành một shot rộng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10077" QUniqId="10077" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 5</name>
+				<title>5. "Kết hôn" với hình ảnh và âm thanh có nghĩa là gì? </title>
+				<responses>
+					<response id="A">Nó có nghĩa là biên tập phim và biên tập âm thanh chiến đấu như một cặp vợ chồng </response>
+					<response id="B">Thêm lời kể hoặc âm nhạc để bổ sung cho hành động </response>
+					<response id="C">Thêm âm thanh giải thích hành động, như hiệu ứng âm thanh </response>
+					<response id="D">Thêm âm thanh giải thích hành động, như hiệu ứng âm thanh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10078" QUniqId="10078" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 6</name>
+				<title>6. Làm thế nào để cảnh quay được tải lên một chương trình chỉnh sửa?</title>
+				<responses>
+					<response id="A">Một sợi dây lửa có thể được gắn vào máy ảnh và máy tính để đoạn phim có thể được tải lên thành công </response>
+					<response id="B">Đoạn phim phải được lưu vào máy tính trước khi có thể tải lên chương trình </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10079" QUniqId="10079" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 7</name>
+				<title>7. Video được chuyển đổi và chia sẻ trên Adobe Premiere Elements như thế nào?</title>
+				<responses>
+					<response id="A">Nhấn vào tab 'Chia sẻ' và chọn phương thức chuyển đổi và cách chia sẻ video </response>
+					<response id="B">Người chỉnh sửa có thể nhấp chuột phải vào video và chuyển đổi video </response>
+					<response id="C">Khi video được lưu, nó sẽ tự động chuyển đổi </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10080" QUniqId="10080" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 8</name>
+				<title>8. Điều nào sau đây không liên quan đến quá trình hậu kỳ?</title>
+				<responses>
+					<response id="A">trẻ mới biết đi </response>
+					<response id="B">bò </response>
+					<response id="C">đúng kiểu </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10081" QUniqId="10081" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 9</name>
+				<title>9. Mặc dù việc chỉnh sửa được thực hiện trên máy tính, các chuỗi video phải được kiểm tra trên màn hình tivi hoặc màn hình vì:</title>
+				<responses>
+					<response id="A">màn hình máy tính thể hiện màu sắc với màu sắc khác nhau và không gian màu lớn hơn màn hình tivi </response>
+					<response id="B">màn hình tivi sử dụng chức năng quét xen kẽ, điều đó có nghĩa là các vạch mịn có độ tương phản cao có thể nhấp nháy </response>
+					<response id="C">bạn nên kiểm tra hình ảnh của bạn sẽ trông như thế nào với các cạnh bên ngoài (vùng không an toàn tiêu đề) bị thiếu </response>
+					<response id="D">tất cả những điều trên </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10082" QUniqId="10082" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 10</name>
+				<title>10. Điều nào sau đây không phải là không gian màu được sử dụng cho các hệ thống truyền hình màu? </title>
+				<responses>
+					<response id="A">RGB </response>
+					<response id="B">YIQ </response>
+					<response id="C">YUV </response>
+					<response id="D">CMYK </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10083" QUniqId="10083" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 11</name>
+				<title>11. Điều nào sau đây không phải là một hệ thống lưu trữ video được chia sẻ?</title>
+				<responses>
+					<response id="A">Ngọn lửa kín đáo </response>
+					<response id="B">Hồ sơ của Grass Valley </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10084" QUniqId="10084" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 12</name>
+				<title>12. Bạn đã không đặt Điểm vào hoặc Điểm trong nguồn hoặc chuỗi. Điều gì xảy ra khi bạn thực hiện chỉnh sửa ghi đè?</title>
+				<responses>
+					<response id="A">Vị trí của các đầu phát đóng vai trò là In Points; Điểm ra sẽ là phần cuối của clip nguồn. </response>
+					<response id="B">Bạn không thể thực hiện chỉnh sửa ghi đè mà không có điểm ngoài </response>
+					<response id="C">Khung đầu tiên của nguồn và chuỗi đóng vai trò là In Points; Điểm ra sẽ là phần cuối của clip nguồn </response>
+					<response id="D">Tất cả những thứ ở đây </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10085" QUniqId="10085" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 13</name>
+				<title>13. Cáp video nào sau đây KHÔNG có khả năng mang video HD?</title>
+				<responses>
+					<response id="A">Thành phần tương tự </response>
+					<response id="B">S-Video </response>
+					<response id="C">HDMI </response>
+					<response id="D">SDI </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10086" QUniqId="10086" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 14</name>
+				<title>14. Bạn đang tạo một video timelapse từ 250 hình ảnh tĩnh và bạn phải sử dụng một hình ảnh cho mỗi khung hình của video. Thời lượng cuối cùng của video là bao nhiêu nếu bạn phải xuất nó trong các hệ thống PAL lũy tiến?</title>
+				<responses>
+					<response id="A">9 giây </response>
+					<response id="B">10 giây </response>
+					<response id="C">11 giây </response>
+					<response id="D">25 giây </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10087" QUniqId="10087" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 15</name>
+				<title>15. Sửa đổi màu sắc của clip cân bằng màu hiện có với mục đích tăng cường sự xuất hiện nghệ thuật của clip hoặc để mang lại cảm giác cụ thể cho clip dựa trên chủ đề, cốt truyện và sự kiện của clip được gọi là gì?</title>
+				<responses>
+					<response id="A">phân loại màu sắc </response>
+					<response id="B">cân bằng màu </response>
+					<response id="C">tăng cường màu sắc </response>
+					<response id="D">suy giảm màu sắc </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10088" QUniqId="10088" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 16</name>
+				<title>16. T là phím tắt của công cụ gì</title>
+				<responses>
+					<response id="A">Viết chữ </response>
+					<response id="B">Vẽ đường thẳng </response>
+					<response id="C">Xoay, biến đổi đối tượng </response>
+					<response id="D">Ẩn hiện hộp công cụ Tool Box trong Photoshop </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10089" QUniqId="10089" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 17</name>
+				<title>17. Linear Gradinet để tô màu theo dạng</title>
+				<responses>
+					<response id="A">Màu biến thiên theo dạng tỏa tròn </response>
+					<response id="B">Màu biến thiên theo hình thoi </response>
+					<response id="C">Màu theo tuyến tính đối xứng ở một bên của điểm bắt đầu </response>
+					<response id="D">Màu biến thiên từ điểm đầu đến điểm cuối của hình ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10090" QUniqId="10090" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 18</name>
+				<title>18. Phát biểu nào sau đây là sai để đổ màu cho vùng chọn</title>
+				<responses>
+					<response id="A">Edit/Fill : Foreground </response>
+					<response id="B">Image/ Dulipcate </response>
+					<response id="C">ALt + Backspace </response>
+					<response id="D">Ctrl + Backspace </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10091" QUniqId="10091" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 19</name>
+				<title>19. Cách nào dưới đây dùng để sử dụng công cụ Lasso Tool:</title>
+				<responses>
+					<response id="A">Click một màu trên hình ảnh </response>
+					<response id="B">Giữ trái chuột và kéo theo biên của vật thể cần chọn </response>
+					<response id="C">Click chuột liên tục </response>
+					<response id="D">Đè Alt để lấy mẫu </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10092" QUniqId="10092" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 20</name>
+				<title>20. Biến 1 đường Path thành vùng chọn</title>
+				<responses>
+					<response id="A">Ctrl + Enter </response>
+					<response id="B">Shift + Enter </response>
+					<response id="C">Alt + Enter </response>
+					<response id="D">Enter </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10093" QUniqId="10093" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 21</name>
+				<title>21. Muốn vẽ theo đường thẳng ngang, dọc, nghiêng góc 45 độ với Pen Tool</title>
+				<responses>
+					<response id="A">Nhấn giữ phím Ctrl </response>
+					<response id="B">Nhấn giữ phím Alt </response>
+					<response id="C">Nhấn giữ phím Shift </response>
+					<response id="D">Nhấn giữ phím Space bar </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10094" QUniqId="10094" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 22</name>
+				<title>22. Định dạng file chuẩn của Photoshop là</title>
+				<responses>
+					<response id="A">JPG </response>
+					<response id="B">PST </response>
+					<response id="C">PSD </response>
+					<response id="D">Tất cả các định dạng file ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10095" QUniqId="10095" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 23</name>
+				<title>23. Để cuộn xem hình ảnh mà kích thước hình ảnh lớn hơn cửa sổ hiển thị nó:</title>
+				<responses>
+					<response id="A">Dùng công cụ Hand (phím tắt H) </response>
+					<response id="B">Đè thanh Space bar trên bàn phím </response>
+					<response id="C">Đáp án A và B đều đúng </response>
+					<response id="D">Đáp án A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10096" QUniqId="10096" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 24</name>
+				<title>24. Phát biểu nào dưới đây không đúng:</title>
+				<responses>
+					<response id="A">Ctrl + Z </response>
+					<response id="B">Ctrl+Alt + Z </response>
+					<response id="C">Cả A và B đều sai </response>
+					<response id="D">Cả A và B đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10097" QUniqId="10097" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 25</name>
+				<title>25. Bước nhảy là gì?</title>
+				<responses>
+					<response id="A">Một chỉnh sửa trong đó các khung của các cảnh quay trước và tiến hành giống nhau đến mức nó tạo ra một chuyển tiếp chói tai. </response>
+					<response id="B">type the answer here </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10098" QUniqId="10098" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 26</name>
+				<title>26. Avchd còn được gọi là gì?</title>
+				<responses>
+					<response id="A">MPEG-4 Phần 10 </response>
+					<response id="B">MPEG-2 phần 6 </response>
+					<response id="C">MPEG-3 phần 8 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10099" QUniqId="10099" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 27</name>
+				<title>27. Phần mềm đồ họa chuyển động nào?</title>
+				<responses>
+					<response id="A">Trước hiệu ứng </response>
+					<response id="B">Sau hiệu ứng </response>
+					<response id="C">Trong hiệu ứng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10100" QUniqId="10100" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 28</name>
+				<title>28. Ở độ phân giải HD, ________ là 720 Như 1920 là 1080.</title>
+				<responses>
+					<response id="A">1280 </response>
+					<response id="B">1366 </response>
+					<response id="C">1564 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10101" QUniqId="10101" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 29</name>
+				<title>29. Kích thước tính theo pixel của khung hình độ nét cao 16: 9 1080p là ...</title>
+				<responses>
+					<response id="A">1920 x 1080 pixel </response>
+					<response id="B">1366 x 768 pixel  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10102" QUniqId="10102" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 30</name>
+				<title>30. Bạn có hai video clip dài 5 giây để quay lại dòng thời gian của bạn trên V1. Bạn di chuyển clip thứ hai lên V2 và trước đó 5 giây và giảm Opacity xuống 50%. Điều gì sẽ thay đổi khi bạn chơi lại?</title>
+				<responses>
+					<response id="A">Hai clip sẽ được hòa tan với nhau </response>
+					<response id="B">Hai clip sẽ tách riêng </response>
+					<response id="C">Hai clip sẽ trộn linh tinh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10103" QUniqId="10103" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 31</name>
+				<title>31. Công cụ Move Tool có tác dụng:</title>
+				<responses>
+					<response id="A">Sao chép ảnh </response>
+					<response id="B">Để di chuyển đối tượng và gióng hàng các đối tượng trên các Layer </response>
+					<response id="C">Tạo viền vùng chọn </response>
+					<response id="D">Tô vẽ hình ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10104" QUniqId="10104" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 32</name>
+				<title>32. Bộ công cụ Marquee có thể tạo vùng chọn theo:</title>
+				<responses>
+					<response id="A">Hình chữ nhật </response>
+					<response id="B">Hình elip </response>
+					<response id="C">Cả A và B đều đúng </response>
+					<response id="D">Cả A và B đều sai  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10105" QUniqId="10105" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 33</name>
+				<title>33. Muốn tạo vùng chọn theo màu sắc tương đồng sử dụng công cụ:</title>
+				<responses>
+					<response id="A">Polygonal Lasso tool </response>
+					<response id="B">Magic Wand Tool </response>
+					<response id="C">Magnetic Lasso Tool </response>
+					<response id="D">Move Tool(phím tắt V) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10106" QUniqId="10106" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 34</name>
+				<title>34. Để bật/tắt tools box ta chọn lệnh</title>
+				<responses>
+					<response id="A">Window\ tool box </response>
+					<response id="B">Window\ tools </response>
+					<response id="C">Window\ Navigator </response>
+					<response id="D">Cả A và B đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10107" QUniqId="10107" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 35</name>
+				<title>35. Để cuộn xem hình ảnh mà kích thước hình ảnh lớn hơn cửa sổ hiển thị nó:</title>
+				<responses>
+					<response id="A">Dùng công cụ Hand (phím tắt H) </response>
+					<response id="B">Đè thanh Space bar trên bàn phím </response>
+					<response id="C">Đáp án A và B đều đúng </response>
+					<response id="D">Đáp án A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10108" QUniqId="10108" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 36</name>
+				<title>36. Bộ công cụ Marquee có thể tạo vùng chọn theo:</title>
+				<responses>
+					<response id="A">Hình chữ nhật </response>
+					<response id="B">Hình elip </response>
+					<response id="C">Cả A và B đều đúng </response>
+					<response id="D">Cả A và B đều sai  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10109" QUniqId="10109" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 37</name>
+				<title>37. Có bao nhiêu khung hình Ntsc thả khung thời gian bỏ qua trong mỗi khoảng thời gian 10 phút?</title>
+				<responses>
+					<response id="A">16 Khung </response>
+					<response id="B">18 khung </response>
+					<response id="C">17 khung </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10110" QUniqId="10110" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 38</name>
+				<title>38. Tùy chọn nào dưới đây không có trong thiết lập Position của hiệu ứng Stroke của Layer Style</title>
+				<responses>
+					<response id="A">Outside </response>
+					<response id="B">Inside </response>
+					<response id="C">Center </response>
+					<response id="D">Color </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10111" QUniqId="10111" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 39</name>
+				<title>39. Muốn vẽ theo đường thẳng ngang, dọc, nghiêng góc 45 độ với Pen Tool</title>
+				<responses>
+					<response id="A">Nhấn giữ phím Ctrl </response>
+					<response id="B">Nhấn giữ phím Alt </response>
+					<response id="C">Nhấn giữ phím Shift </response>
+					<response id="D">Nhấn giữ phím Space bar </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10112" QUniqId="10112" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 40</name>
+				<title>40. Biến 1 đường Path thành vùng chọn</title>
+				<responses>
+					<response id="A">Ctrl + Enter </response>
+					<response id="B">Shift + Enter </response>
+					<response id="C">Alt + Enter </response>
+					<response id="D">Enter </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10113" QUniqId="10113" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 41</name>
+				<title>41. Khi tạo file mới, màu của file mới tạo là màu:</title>
+				<responses>
+					<response id="A">Trắng (white) </response>
+					<response id="B">Trong suốt </response>
+					<response id="C">Tuỳ chọn trong hộp thoại </response>
+					<response id="D">Màu đen </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10114" QUniqId="10114" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 42</name>
+				<title>42. Để cuộn xem hình ảnh mà kích thước hình ảnh lớn hơn cửa sổ hiển thị nó:</title>
+				<responses>
+					<response id="A">Dùng công cụ Hand (phím tắt H) </response>
+					<response id="B">Đè thanh Space bar trên bàn phím </response>
+					<response id="C">Đáp án A và B đều đúng </response>
+					<response id="D">Đáp án A và B đều sai </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10115" QUniqId="10115" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 43</name>
+				<title>43. Phát biểu nào dưới đây không đúng:</title>
+				<responses>
+					<response id="A">Ctrl + Z </response>
+					<response id="B">Ctrl+Alt + Z </response>
+					<response id="C">Cả A và B đều sai </response>
+					<response id="D">Cả A và B đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10116" QUniqId="10116" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 44</name>
+				<title>44. Màu ngầm định trong photoshop (Foreground/ background) là:</title>
+				<responses>
+					<response id="A">Trắng/ Đen </response>
+					<response id="B">Trắng/ Trong suốt </response>
+					<response id="C">Đen/ Trắng </response>
+					<response id="D">Đen/ Trong suốt </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10117" QUniqId="10117" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 45</name>
+				<title>45. Tốc độ khung hình cho Ntsc là gì?</title>
+				<responses>
+					<response id="A">29,97 khung hình / giây </response>
+					<response id="B">36,67 khung hình/giây </response>
+					<response id="C">45,56 khung hình/giây </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10118" QUniqId="10118" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 46</name>
+				<title>46. Phần mềm đồ họa chuyển động nào?</title>
+				<responses>
+					<response id="A">Trước hiệu ứng </response>
+					<response id="B">Sau hiệu ứng </response>
+					<response id="C">Trong hiệu ứng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10119" QUniqId="10119" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 47</name>
+				<title>47. Hình ảnh nào có thể gây ra biến dạng video nhiều nhất?</title>
+				<responses>
+					<response id="A">Một hình ảnh chứa văn bản màu đen trên nền trắng cường độ 100% </response>
+					<response id="B">1 hình ảnh tối màu không có phông sáng </response>
+					<response id="C">1 hình ảnh sặc sỡ trên nền sặc sỡ </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10120" QUniqId="10120" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 48</name>
+				<title>48. Một cài đặt cho phép bạn dễ dàng căn chỉnh một clip trong dòng thời gian với các clip, điểm đánh dấu khác, hoặc Playhead được biết đến như là?</title>
+				<responses>
+					<response id="A">Chụp </response>
+					<response id="B">Quay </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10121" QUniqId="10121" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 49</name>
+				<title>49. Điều gì làm cho việc sử dụng quá trình kéo xuống 3: 2?</title>
+				<responses>
+					<response id="A">Chuyển đổi cảnh phim thành tốc độ khung hình truyền hình NTSC </response>
+					<response id="B">type the answer here </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10122" QUniqId="10122" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 50</name>
+				<title>50. Có đúng là nền tảng chỉnh sửa ảnh hưởng đến chất lượng cảnh quay không? Ví dụ: Chụp hoặc nhập cảnh để "khao khát nhà soạn nhạc truyền thông" sẽ giữ chất lượng cao hơn nhiều so với sử dụng "bản cắt cuối cùng"?</title>
+				<responses>
+					<response id="A">Sai </response>
+					<response id="B">Đúng  </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>

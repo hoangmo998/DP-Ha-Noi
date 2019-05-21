@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 10.0" version="1.0">
+	<objective id="Quiz10004" max-score="100" passing-score="55" min-score="0">
+		<name>Câu hỏi</name>
+		<interactions>
+			<interaction id="Interaction10010" QUniqId="10010" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>1/ Chọn phát biểu đúng về tín hiệu video (analog)</title>
+				<responses>
+					<response id="A">Tín hiệu video là tín hiệu rời rạc trong miền tần số và liên tục trong miền thời gian  </response>
+					<response id="B">Tín hiệu video là tín hiệu liên tục trong miền tần số và rời rạc trong miền thời gian  </response>
+					<response id="C">Tín hiệu video là tín hiệu liên tục trong miền tần số và liên tục trong miền thời gian </response>
+					<response id="D">Tín hiệu video là tín hiệu rời rạc trong miền tần số và liên tục trong miền thời gian </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10074" QUniqId="10074" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>2/ Chọn phát biểu đúng về tín hiệu video</title>
+				<responses>
+					<response id="A">Tín hiệu video là tín hiệu gần tuần hoàn mang tính chất xung </response>
+					<response id="B">Tín hiệu video là tín hiệu tuần hoàn có chu kỳ là thời gian quét dòng  </response>
+					<response id="C">Tín hiệu video là tín hiệu có thành phần một chiều bằng 0 </response>
+					<response id="D">Năng lượng tín hiệu video tập trung chủ yếu ở miền tần số cao  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10075" QUniqId="10075" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>3/ Chọn phát biểu đúng</title>
+				<responses>
+					<response id="A">Trong các hệ truyền hình đại chúng, tần số lấy mẫu theo thời gian là 50 mành/giây  </response>
+					<response id="B">Trong các hệ truyền hình đại chúng, tần số lấy mẫu theo thời gian là 50 ảnh/giây  </response>
+					<response id="C">Trong các hệ truyền hình đại chúng, tần số lấy mẫu theo thời gian là 30 mành/giây </response>
+					<response id="D">Trong các hệ truyền hình đại chúng, tần số lấy mẫu theo thời gian là 24 ảnh/giây </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10076" QUniqId="10076" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>4/ Chọn phát biểu đúng về tiêu chuẩn lấy mẫu video thành phần 4:4:4</title>
+				<responses>
+					<response id="A">Tín hiệu chói và màu được lấy mẫu tại tất cả các điểm lấy mẫu trên dòng tích cực của tín hiệu video </response>
+					<response id="B">Tín hiệu màu trên mỗi dòng được lấy mẫu với tần số bằng nửa tần số lấy mẫu tín hiệu chói </response>
+					<response id="C">Tín hiệu chói được lấy mẫu tại tất cả các điểm lấy mẫu trên dòng tích cực của tín hiệu video; cách một điểm lấy mẫu một tín hiệu màu </response>
+					<response id="D">Tín hiệu chói được lấy mẫu dọc theo các dòng lẻ, tín hiệu màu chỉ được lấy mẫu tại các dòng chẵn </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10077" QUniqId="10077" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>5/ Trong các tiêu chuẩn lấy mẫu video, tiêu chuẩn nào có tín hiệu màu trên mỗi dòng được lấy mẫu với tần số bằng một phần tư tần số lấy mẫu tín hiệu chói</title>
+				<responses>
+					<response id="A">Tiêu chuẩn 4:2:0 </response>
+					<response id="B">Tiêu chuẩn 4:2:2  </response>
+					<response id="C">Tiêu chuẩn 4:4:4  </response>
+					<response id="D">Tiêu chuẩn 4:1:1  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10078" QUniqId="10078" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>6/ Khai triển Fourier rời rạc của ma trận 8x8 điểm ảnh cho kết quả là </title>
+				<responses>
+					<response id="A">Ma trận 64 hệ số khai triển Fourier rời rạc </response>
+					<response id="B">Ma trận 28 hệ số khai triển Fourier rời rạc </response>
+					<response id="C">Ma trận 16 hệ số khai triển Fourier rời rạc  </response>
+					<response id="D">Ma trận 32 hệ số khai triển Fourier rời rạc  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10079" QUniqId="10079" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>7/ Hệ số F(0,0) trong ma trận các hệ số khai triển Fourier của một block ảnh 8x8 (điểm) là: </title>
+				<responses>
+					<response id="A">Giá trị trung bình của các mức xám trong block ảnh </response>
+					<response id="B">Thành phần xoay chiều của tín hiệu hình ảnh </response>
+					<response id="C">Công suất trung bình của tín hiệu chứa trong block ảnh số  </response>
+					<response id="D">Giá trị cực đại của các mức xám trong block ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10080" QUniqId="10080" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>8/ Các điểm ảnh trong block 8x8 được lượng tử hoá với 8 bits. Giá trị lớn nhất của hệ số DC có thể nhận được sau khai triển DCT bằng:</title>
+				<responses>
+					<response id="A"> 28 </response>
+					<response id="B">0 </response>
+					<response id="C">27 </response>
+					<response id="D">83 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10081" QUniqId="10081" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>9/ Các điểm ảnh lân cận dạng nào có trong block 9 điểm ảnh trên hình vẽ: </title>
+				<responses>
+					<response id="A">Lân cận N4 ND N8 </response>
+					<response id="B">Chỉ có lân cận dạng N8  </response>
+					<response id="C">Chỉ có lân cận dạng N4  </response>
+					<response id="D">Chỉ có lân cận dạng ND  </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10082" QUniqId="10082" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>10/ Liên kết minh hoạ trên hình dưới đây (các điểm được nối bằng đường đứt nét) là:</title>
+				<responses>
+					<response id="A">Liên kết 8 </response>
+					<response id="B">Liên kết 4 </response>
+					<response id="C"> Liên kết m </response>
+					<response id="D"> Liên kết 2 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10083" QUniqId="10083" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>11/ Liên kết minh hoạ trên hình dưới đây (các điểm được nối bằng đường đứt nét) là: </title>
+				<responses>
+					<response id="A">Liên kết m </response>
+					<response id="B"> Liên kết 4 </response>
+					<response id="C"> Liên kết 2 </response>
+					<response id="D"> Liên kết 8 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10084" QUniqId="10084" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>12/ Hai vùng ảnh sau đây có liên kết: </title>
+				<responses>
+					<response id="A">Liên kết 8 và m </response>
+					<response id="B">Liên kết 4 </response>
+					<response id="C">Liên kết 8 </response>
+					<response id="D">Liên kết m </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10085" QUniqId="10085" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>13/ Lược đồ xám (histogram) chuẩn của ảnh là: </title>
+				<responses>
+					<response id="A">Xác suất xuất hiện của các mức xám (từ 0 đến 255) trong ảnh số  </response>
+					<response id="B">Số lượng mức xám có trong ảnh số </response>
+					<response id="C">Phân bố mức xám trên bề mặt ảnh số </response>
+					<response id="D">Phân bố mức đen trên bề mặt ảnh số </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10086" QUniqId="10086" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>14/ Ảnh có histogram dưới đây có đặc điểm: </title>
+				<responses>
+					<response id="A">Độ tương phản thấp  </response>
+					<response id="B">Độ chói quá thấp  </response>
+					<response id="C">Độ chói quá cao </response>
+					<response id="D">Độ tương phản cao </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10087" QUniqId="10087" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>15/ Ảnh có histogram dưới đây có đặc điểm: </title>
+				<responses>
+					<response id="A">Độ tương phản thấp  </response>
+					<response id="B">Độ tương phản cao </response>
+					<response id="C">Độ chói cao </response>
+					<response id="D">Độ chói thấp </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10088" QUniqId="10088" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>16/&amp;#x09;Ảnh có histogram dưới đây có đặc điểm: </title>
+				<responses>
+					<response id="A">Độ tương phản cao </response>
+					<response id="B">Độ tương phản thấp </response>
+					<response id="C">Độ chói cao </response>
+					<response id="D">Độ chói thấp </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10089" QUniqId="10089" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>17/ Ảnh được cân bằng lược đồ xám sẽ có:</title>
+				<responses>
+					<response id="A">Độ tương phản được tăng cường </response>
+					<response id="B">Độ tương phản của ảnh giảm đi  </response>
+					<response id="C">Độ chói đồng đều trên toàn bộ bề mặt ảnh  </response>
+					<response id="D">Độ nét được cải thiện </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10090" QUniqId="10090" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>18/&amp;#x09;Xét quá trình lọc trung bình không gian. Nếu kích thước mặt nạ lọc tăng lên: </title>
+				<responses>
+					<response id="A">Mức độ làm "trơn" ảnh tăng lên  </response>
+					<response id="B">Thời gian xử lý ảnh sẽ giảm xuống. </response>
+					<response id="C">Băng thông bộ lọc tăng lên </response>
+					<response id="D">Độ tương phản của ảnh kết quả sẽ được tăng cường </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10091" QUniqId="10091" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>19/&amp;#x09;Bộ lọc trung vị là: </title>
+				<responses>
+					<response id="A">Bộ lọc phi tuyến  </response>
+					<response id="B">Bộ lọc tuyến tính  </response>
+					<response id="C">Bộ lọc thông cao </response>
+					<response id="D">Bộ lọc thông thấp </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10092" QUniqId="10092" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>20/&amp;#x09;Bộ lọc trung vị được sử dụng để: </title>
+				<responses>
+					<response id="A">Lọc nhiễu xung  </response>
+					<response id="B">Làm nổi biên ảnh </response>
+					<response id="C">Làm "trơn" ảnh </response>
+					<response id="D">Tăng độ tương phản của ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10093" QUniqId="10093" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>21/&amp;#x09;Nhiễu được mô tả bằng hàm mật độ xác suất: p ( z ) =1/2ps x e-( z-m)2 /2s 2 , trong đó s 2 là: </title>
+				<responses>
+					<response id="A">Phương sai </response>
+					<response id="B">Độ lệch chuẩn </response>
+					<response id="C">Công suất thành phần xoay chiều của nhiễu  </response>
+					<response id="D">Trung bình kỳ vọng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10094" QUniqId="10094" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>22/&amp;#x09;Phương pháp làm nổi biên cục bộ Gradient xác định đường biên của ảnh trong không gian (x,y) dựa trên:</title>
+				<responses>
+					<response id="A">Giá trị modul gradient  Ñf  và góc  a  giữa vector gradient và trục x tại  các điểm  nằm trên đường biên </response>
+					<response id="B">Góc  a  giữa vector gradient và trục x  </response>
+					<response id="C">Mức độ thay đổi màu sắc của ảnh f(x,y) </response>
+					<response id="D">Giá trị modul gradient  Ñf  và góc  a  giữa vector gradient và trục x tại  các điểm  nằm trên đường biên </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10095" QUniqId="10095" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>23/&amp;#x09;Ngưỡng so sánh T sử dụng để phân vùng ảnh được gọi là ngưỡng thích nghi nếu: </title>
+				<responses>
+					<response id="A">Giá trị T phụ thuộc vào giá trị mức xám của các điểm ảnh  </response>
+					<response id="B">Giá trị T không thay đổi trong toàn bộ quá trình xử lý ảnh </response>
+					<response id="C">Giá trị T phụ thuộc vào toạ độ không gian của ảnh </response>
+					<response id="D">Giá trị T khong phụ thuộc vào toạ độ không gian của ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10096" QUniqId="10096" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>24/&amp;#x09;Trong phương pháp phân vùng với ngưỡng toàn cục tối ưu, người ta lựa chọn mức ngưỡng theo tiêu chí:</title>
+				<responses>
+					<response id="A">Tối thiểu hóa sai số phân vùng trung bình </response>
+					<response id="B">Giảm tối đa số lượng phép tính cần thực hiện  </response>
+					<response id="C">Giảm tối đa thời gian xử lý </response>
+					<response id="D">Giảm tối đa sai số phân vùng tối đa </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10097" QUniqId="10097" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>25/&amp;#x09;Ảnh bao gồm thành phần chi tiết và thành  phần nền. Các mức xám trong ảnh chi  tiết  nằm trong dải giá trị: [80 ¸ 125], các mức xám trong ảnh nền nằm trong dải giá trị: [0 ¸ 70]. Ngưỡng toàn cục tối ưu cho ảnh nói trên bằng: </title>
+				<responses>
+					<response id="A">70 </response>
+					<response id="B">75 </response>
+					<response id="C">80 </response>
+					<response id="D">125 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10098" QUniqId="10098" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>26/&amp;#x09;Thứ tự tín hiệu gốc được xử lý trong một hệ thống nén video tiêu biểu là</title>
+				<responses>
+					<response id="A">Tín hiệu gốc – Bộ chuyển đổi – Bộ lượng tử hóa – Bộ mã hóa – Tín hiệu nén </response>
+					<response id="B">Tín hiệu gốc – Bộ mã hóa – Bộ lượng tử hóa - Bộ chuyển đổi- Tín hiệu nén </response>
+					<response id="C">Tín hiệu gốc – Bộ mã hóa – Bộ chuyển đổi – Bộ lượng tử hóa – Tín hiệu nén </response>
+					<response id="D">Tín hiệu gốc – Bộ lượng tử hóa – Bộ chuyển đổi – Bộ mã hóa – Tín hiệu nén </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10099" QUniqId="10099" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>27/ Mã Huffman trong quá trình nén ảnh thực hiện giải thuật: </title>
+				<responses>
+					<response id="A">Mã hóa với độ dài của từ mã thay đổi  </response>
+					<response id="B">Mã hóa với độ dài của từ mã không đổi </response>
+					<response id="C">Mã hóa bằng cách loại bỏ trùng lặp </response>
+					<response id="D">Mã hóa loạt dài liên tục </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10100" QUniqId="10100" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>28/&amp;#x09;Chọn phát biểu đúng về mã hóa Huffman:</title>
+				<responses>
+					<response id="A">Ký tự có tần số xuất hiện càng cao thì số bit dùng để mã hóa càng ngắn </response>
+					<response id="B">Ký tự có tần số xuất hiện càng cao thì số bit dùng để mã hóa càng dài </response>
+					<response id="C">Ký tự có tần số xuất hiện càng ngắn thì số bit dùng để mã hóa càng ngắn </response>
+					<response id="D">Tần số xuất hiện của ký tự không làm thay đổi số lượng bit dùng để mã hóa </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10101" QUniqId="10101" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>29/&amp;#x09;Phương pháp mã hóa LZW được thực hiện dựa trên nguyên tắc:</title>
+				<responses>
+					<response id="A">Mã hóa các chuỗi dữ liệu có chiều dài khác nhau bằng các từ mã có chiều dài khong đổi </response>
+					<response id="B">Thay đổi độ dài từ mã theo độ dài của chuỗi dữ liệu </response>
+					<response id="C">Thay đổi độ dài từ mã theo độ mã hóa của chuỗi dữ liệu </response>
+					<response id="D">Thay đổi độ dài từ mã theo tần số xuất hiện của ký tự </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10102" QUniqId="10102" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>30/&amp;#x09;Trong lĩnh vực nén ảnh số, phương pháp mã hóa nào sử dụng kỹ thuật thay giá trị mức xám của các điểm ảnh liên tiếp bằng giá trị mức xám và số lần lặp lại của mức xám đó:</title>
+				<responses>
+					<response id="A">Mã hóa loạt dài (RLC)  </response>
+					<response id="B">Mã hóa theo vùng đồng trị </response>
+					<response id="C">Mã hóa dự đoán không tổn thất </response>
+					<response id="D">Mã hóa dự đoán có tổn thất </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10103" QUniqId="10103" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>31/&amp;#x09;Trong kỹ thuật nén ảnh, phương pháp mã dự đoán còn được gọi là: </title>
+				<responses>
+					<response id="A">Điều xung mã vi sai </response>
+					<response id="B">Điều xung mã vi phân </response>
+					<response id="C">Điều xung mã khả vi </response>
+					<response id="D">Điều xung mã khả dụng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10104" QUniqId="10104" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>32/&amp;#x09;Khác biệt cơ bản giữa phương pháp mã hóa DPCM không tổn hao và tổn hao là: </title>
+				<responses>
+					<response id="A">Trong bộ mã hóa DPCM có tổn hao có khối lượng tử hóa tín hiệu  </response>
+					<response id="B">Trong bộ giải mã DPCM không tổn hao có khối lượng tử hóa tín hiệu </response>
+					<response id="C">Trong bộ giải mã DPCM không tổn hao khong có khối lượng tử hóa tín hiệu </response>
+					<response id="D">Trong bộ mã hóa DPCM có tổn hao không có khối lượng tử hóa tín hiệu </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10105" QUniqId="10105" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>33/&amp;#x09;Kỹ thuật mã hóa nguồn dựa trên phép biến đổi Fourier hay Cosin để chuyển ảnh số từ miền thời gian hay miền không gian sang miền tần số là kỹ thuật: </title>
+				<responses>
+					<response id="A">Mã hóa chuyển đổi  </response>
+					<response id="B">Mã hóa sai phân </response>
+					<response id="C">Lượng tử hóa vectơ </response>
+					<response id="D">Lượng tử hóa sai phân </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10106" QUniqId="10106" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>34/ Trong kỹ thuật nén ảnh, kỹ thuật mã hóa nguồn dựa trên cơ sở mã hóa sự khác biệt giữa giá trị mẫu thực và giá trị ước đoán là kỹ thuật:</title>
+				<responses>
+					<response id="A">Mã hóa sai phân  </response>
+					<response id="B">Mã hóa chuyển đổi </response>
+					<response id="C">Mã hóa vectơ </response>
+					<response id="D">Lượng tử hóa vectơ </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10107" QUniqId="10107" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>35/ DCT là từ viết tắt của cụm từ:</title>
+				<responses>
+					<response id="A">Discrete Cosine Transform  </response>
+					<response id="B">Disconnect Cosine Transform </response>
+					<response id="C">Discrete Cosine Translation </response>
+					<response id="D">Disconnect Cosine Translation </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10108" QUniqId="10108" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>36/&amp;#x09;Phát biểu nào dưới đây là đúng:</title>
+				<responses>
+					<response id="A">Thuật toán nén càng phức tạp thì hiệu quả nén, giá thành và thời gian thực hiện càng cao </response>
+					<response id="B">Thuật toán nén càng phức tạp thì hiệu quả nén càng giảm, giá thành và thời gian thực hiện càng cao </response>
+					<response id="C">Thuật toán nén càng phức tạp thì hiệu quả nén càng giảm </response>
+					<response id="D">Hiệu quả nén phụ thuộc vào tính chất của ảnh gốc và mức độ phức tạp của thuật toán nén </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10109" QUniqId="10109" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>37/&amp;#x09;Phát biểu nào dưới đây là đúng:</title>
+				<responses>
+					<response id="A">Mắt người kém nhạy cảm với sự thay đổi tín hiệu màu hơn sự thay đổi tín hiệu chói </response>
+					<response id="B">Mắt người kém nhạy cảm với sự thay đổi tín hiệu chói hơn sự thay đổi tín hiệu màu </response>
+					<response id="C">Mắt người nhạy cảm với sự thay đổi tín hiệu chói hơn sự thay đổi tín hiệu màu </response>
+					<response id="D">Mắt người nhạy cảm với sự thay đổi tín hiệu màu tương đương sự thay đổi tín hiệu chói </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10110" QUniqId="10110" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>38/&amp;#x09;Trong kỹ thuật nén ảnh JPEG, biến đổi DCT được thực hiện cho các khối ảnh có kích thước:</title>
+				<responses>
+					<response id="A">8x8 (pixels)  </response>
+					<response id="B">16x16 (pixels) </response>
+					<response id="C">64x1 (pixels) </response>
+					<response id="D">4x4 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10111" QUniqId="10111" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>39/&amp;#x09;Trong chuẩn JPEG, quá trình nén tổn thất được thực hiện tại bộ phận: </title>
+				<responses>
+					<response id="A">Bộ lượng tử hóa </response>
+					<response id="B">Mã hóa VLC </response>
+					<response id="C">Mã hóa DPCM </response>
+					<response id="D">Mã hóa RLC </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10112" QUniqId="10112" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>40/&amp;#x09;M-JPEG là phương pháp nén: </title>
+				<responses>
+					<response id="A">Nén ảnh động </response>
+					<response id="B">Nén ảnh tĩnh </response>
+					<response id="C">Nén trong hình sử dụng kỹ thuật xấp xỉ chuyển động. </response>
+					<response id="D">Nén liên hình sử dụng biến đổi Fourier </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10113" QUniqId="10113" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>41/&amp;#x09;Trong MPEG, vector chuyển động được tìm cho các khối ảnh có kích thước: </title>
+				<responses>
+					<response id="A">16x16 (pixels)  </response>
+					<response id="B">8x8 (pixels) </response>
+					<response id="C">64x64 (pixels) </response>
+					<response id="D">32x32 (pixels) </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10114" QUniqId="10114" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>42/&amp;#x09;Ảnh I trong MPEG được mã hóa bằng phương pháp: </title>
+				<responses>
+					<response id="A">Dự đoán từ các ảnh I nằm trước nó </response>
+					<response id="B">Dự đoán từ các ảnh P và B </response>
+					<response id="C">Nén trong ảnh với các vector chuyển động </response>
+					<response id="D">Nén trong ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10115" QUniqId="10115" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>43/&amp;#x09;Ảnh P trong MPEG được mã hóa bằng phương pháp: </title>
+				<responses>
+					<response id="A">Dự đoán từ các ảnh I </response>
+					<response id="B">Dự đoán từ các ảnh I và B </response>
+					<response id="C">Nén trong ảnh với các vector chuyển động </response>
+					<response id="D">Nén trong ảnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10116" QUniqId="10116" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>44/&amp;#x09;MPEG-1 cho phép lấy mẫu video thành phần theo các tiêu chuẩn sau: </title>
+				<responses>
+					<response id="A">Tiêu chuẩn 4:2:0  </response>
+					<response id="B">Tiêu chuẩn 4:4:4 </response>
+					<response id="C">Tiêu chuẩn 4:2:2 </response>
+					<response id="D">Tiêu chuẩn 4:1:1 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10117" QUniqId="10117" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>45/&amp;#x09;Chuẩn MPEG-1 cho phép nén ảnh có kích thước ảnh tối đa (điểm ảnh x điểm ảnh) là </title>
+				<responses>
+					<response id="A">4095 x 4095 </response>
+					<response id="B">800 x 600 </response>
+					<response id="C">1024 x 800 </response>
+					<response id="D">1920 x 1440 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10118" QUniqId="10118" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>46/&amp;#x09;MPEG-2 là chuẩn nén có tính tương hợp vì:</title>
+				<responses>
+					<response id="A">Tín hiệu MPEG-2 có thể được giải mã trên decoder MPEG-1  </response>
+					<response id="B">Tín hiệu MPEG-1 có thể được giải mã trên decoder MPEG-2 </response>
+					<response id="C">Coder MPEG-2 có thể mã hóa theo cả hai tiêu chuẩn MPEG-1 và MPEG-2 </response>
+					<response id="D">Coder MPEG-1 có thể mã hóa theo cả hai tiêu chuẩn MPEG-1 và MPEG-2 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10119" QUniqId="10119" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>47/&amp;#x09;Ảnh "đen- trắng" là ảnh có </title>
+				<responses>
+					<response id="A">Độ bão hoà màu bằng 0 </response>
+					<response id="B">Hai mức chói "0" và "1" </response>
+					<response id="C">Nhiều mức xám nằm trong khoảng Lmin-Lmax </response>
+					<response id="D">Các điểm ảnh với mức xám khác 0 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10120" QUniqId="10120" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>48/&amp;#x09;Độ tương phản của ảnh trên màn hình phụ thuộc vào </title>
+				<responses>
+					<response id="A">Độ chói của màn hình </response>
+					<response id="B">2 </response>
+					<response id="C">3 </response>
+					<response id="D">4 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10121" QUniqId="10121" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>49/&amp;#x09;Trong ảnh truyền hình người ta truyền đi tối đa 256 mức xám vì: </title>
+				<responses>
+					<response id="A">Mắt người cảm nhận được ít hơn 256 mức xám trên màn hình cùng một lúc  </response>
+					<response id="B">Biên độ tín hiệu video có giá trị tương đối nhỏ </response>
+					<response id="C">Độ tương phản của ảnh truyền hình có giá trị nhỏ hơn 256 </response>
+					<response id="D">Mắt người cùng một lúc có thể nhận biết được tối đa 256 màu khác nhau </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10122" QUniqId="10122" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>50/&amp;#x09;Để truyền đi một ảnh động, ta chiếu lần lượt nhiều ảnh tĩnh với tần số ảnh tương đối lớn. Tần số ảnh phải được lựa chọn để đáp ứng yêu cầu:</title>
+				<responses>
+					<response id="A">Tạo cảm giác chuyển động liên tục của ảnh động, đồng thời triệt tiêu cảm nhận về sự nhấp nháy của chuỗi ảnh. </response>
+					<response id="B">Ảnh động tái tạo trên màn hình không bị chớp </response>
+					<response id="C">Ảnh động tái tạo trên màn hình bị chớp </response>
+					<response id="D">Tạo cảm giác về quá trình chuyển động liên tục của ảnh  </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>

@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracking-metadata generator="Presenter ver 10.0" version="1.0">
+	<objective id="Quiz10004" max-score="100" passing-score="55" min-score="0">
+		<name>Câu hỏi</name>
+		<interactions>
+			<interaction id="Interaction10010" QUniqId="10010" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>1)Khu vực trang phục trên giao diện làm việc của Scrath để làm gì ?</title>
+				<responses>
+					<response id="A">Điều khiển nhân vật </response>
+					<response id="B">Thêm nhân vật </response>
+					<response id="C">Chỉnh sửa nhân vật </response>
+					<response id="D">Tạo nhân vật </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10137" QUniqId="10137" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>2)Khu vực để chỉnh sửa hình nền trong Scratch có tên là gì ?</title>
+				<responses>
+					<response id="A">Backdrop </response>
+					<response id="B">Coatume </response>
+					<response id="C">Coatumes </response>
+					<response id="D">Backdrops </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10138" QUniqId="10138" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>3)Khu vực nhân vật trên giao diện làm việc của Scratch chứa gì</title>
+				<responses>
+					<response id="A">Hình nền và nhân vật </response>
+					<response id="B">Nhân vật và các nút tạo nhân vật </response>
+					<response id="C">Các nút tạo nhân vật </response>
+					<response id="D">Nhân vật </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10139" QUniqId="10139" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>4)Đâu là nhân vật mặc định của Scratch khi tạo dự án mới ?</title>
+				<responses>
+					<response id="A">Không có nhân vật nào </response>
+					<response id="B">Chú hổ vàng </response>
+					<response id="C">Chú cá vàng </response>
+					<response id="D">Chú mèo vàng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10140" QUniqId="10140" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>5)Khu vực kịch bản trên giao diện làm việc cửa Scratch để làm gì ?</title>
+				<responses>
+					<response id="A">Hiển thị kết quả của dự án </response>
+					<response id="B">Viết kịch bản cửa dự án </response>
+					<response id="C">Chứa các khối lệnh </response>
+					<response id="D">Hiển thị nhân vật và hình nền </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10141" QUniqId="10141" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>6)Khu vực khối lệnh trên giao diện làm việc của Scatch chứa gì ? </title>
+				<responses>
+					<response id="A">Tất cả các khối lệnh trong Scratch </response>
+					<response id="B">Kịch bản của dự án </response>
+					<response id="C">Các khối lệnh màu xanh nước biên </response>
+					<response id="D">Khối lệnh được chia thành các nhóm </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10142" QUniqId="10142" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>7)Khu vực sân khấu trong Scratch có tên là gì ?</title>
+				<responses>
+					<response id="A">Scripts </response>
+					<response id="B">Stage </response>
+					<response id="C">Sprites </response>
+					<response id="D">Scratch </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10143" QUniqId="10143" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>8)Khu vực để viết kịch bản trong Scratch có tên là gì ?</title>
+				<responses>
+					<response id="A">Sprites </response>
+					<response id="B">Scripts </response>
+					<response id="C">Scratch </response>
+					<response id="D">Stage </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10144" QUniqId="10144" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>9)Khu vực âm thanh trong Scratch có tên là gì ?</title>
+				<responses>
+					<response id="A">Sprites </response>
+					<response id="B">Sound </response>
+					<response id="C">Sounds </response>
+					<response id="D">Scripts </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10145" QUniqId="10145" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>10)Khu vực sân khấu trên giao diện làm việc của Scratch thể hiện gì</title>
+				<responses>
+					<response id="A">Hình nền </response>
+					<response id="B">Kết quả của dự án </response>
+					<response id="C">Chú mèo mặc định </response>
+					<response id="D">Nhân vật </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10146" QUniqId="10146" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>11)Khu vực hình nền giao diện làm việc của Scratch chứa gì ?</title>
+				<responses>
+					<response id="A">Hình nền </response>
+					<response id="B">Các nút tạo hình nền </response>
+					<response id="C">Hình nền và các nút tọa hình nền  </response>
+					<response id="D">Hình nền và nhân vật </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10147" QUniqId="10147" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>12)Thanh menu trên giao diện làm việc của Scratch chứa gì?</title>
+				<responses>
+					<response id="A">Các lệnh để tạo nhân vật </response>
+					<response id="B">Các lệnh để viết kịch bản </response>
+					<response id="C">Các lệnh để thao tác với dự án </response>
+					<response id="D">Các lệnh để chỉnh sửa sự án </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10148" QUniqId="10148" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>13) Khu vực chứa các nhân vật của dự án trong Scratch có tên là gì ?</title>
+				<responses>
+					<response id="A">Sprite stage </response>
+					<response id="B">Sprites </response>
+					<response id="C">Sprite </response>
+					<response id="D">Sprites ò Project </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10149" QUniqId="10149" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>14)Thanh công cụ trên giao diện làm việc của Scratch chứa gì ?</title>
+				<responses>
+					<response id="A">Các công cụ để tạo hình nền </response>
+					<response id="B">Các công cụ để tạo nhân vật </response>
+					<response id="C">Các công cụ để thao tác với nhân vật </response>
+					<response id="D">Các công cụ để thao tác với hình nền </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10150" QUniqId="10150" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>15)Có bao nhiêu cách để sao chép một đối tượng hay hình dạng của nó ?</title>
+				<responses>
+					<response id="A">1 </response>
+					<response id="B">2 </response>
+					<response id="C">3 </response>
+					<response id="D">4 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10151" QUniqId="10151" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>16)Có bao nhiêu cách xóa hình dạng của đối tượng ?</title>
+				<responses>
+					<response id="A">1 </response>
+					<response id="B">2 </response>
+					<response id="C">3 </response>
+					<response id="D">4 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10152" QUniqId="10152" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>17)Có bao nhiêu cách xóa 1 đối tượng ?</title>
+				<responses>
+					<response id="A">1 </response>
+					<response id="B">2 </response>
+					<response id="C">3 </response>
+					<response id="D">4 </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10153" QUniqId="10153" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>18)Hình dạng của đối tượng có phần mở rộng là gì ?</title>
+				<responses>
+					<response id="A">.svg </response>
+					<response id="B">.jpg </response>
+					<response id="C">.png </response>
+					<response id="D">Tất cả đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10154" QUniqId="10154" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>19)Hình dạng đối tượng là gì ?</title>
+				<responses>
+					<response id="A">Là 1 hình ảnh bất kì nằm trong thẻ coatumes cửa đối tượng đó </response>
+					<response id="B">Là tập hợp các hình ảnh ở trạng thái khác nha của chính đối tượng </response>
+					<response id="C">Là 1 hình ảnh </response>
+					<response id="D">Tất cả đều đúng </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10155" QUniqId="10155" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>20)Thư viện đối tượng là gì ?</title>
+				<responses>
+					<response id="A">Là nơi lưu trữ các hình dạng của đối tượng </response>
+					<response id="B">Là nơi lưu trữ đối tượng </response>
+					<response id="C">Là nơi lưu trữ hình ảnh đối tượng và các hình dạng cửa chúng </response>
+					<response id="D">Cả B và C </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10156" QUniqId="10156" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>21)Tham số của khối lệnh answer là gì ?</title>
+				<responses>
+					<response id="A">Số và chữ </response>
+					<response id="B">Không có câu trả lời </response>
+					<response id="C">Không có tham số </response>
+					<response id="D">Tất cả các ký tự </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10157" QUniqId="10157" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>22)Khối lệnh nào sẽ cho kết quả là câu trả lời mới nhất nhập từ bàn phím của câu hỏi trong khối lệnh ask and wait?</title>
+				<responses>
+					<response id="A">Answer </response>
+					<response id="B">Ák </response>
+					<response id="C">Reply </response>
+					<response id="D">Wait </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10158" QUniqId="10158" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>23)Câu trả lời của câu hỏi trong khối lệnh ask and wait được lưu trữ ở đâu ?</title>
+				<responses>
+					<response id="A">Khối lệnh Wait </response>
+					<response id="B">Khối lệnh Aswer </response>
+					<response id="C">Khối lệnh Reply </response>
+					<response id="D">Khối lệnh Ask </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10159" QUniqId="10159" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>24)Khối lệnh nào dùng để hỏi một câu hỏi trên màn hình và lưu trữ câu trả lời nhập từ bàn phím?</title>
+				<responses>
+					<response id="A">Question and Wait </response>
+					<response id="B">Ask and Wait </response>
+					<response id="C">Question and Answer </response>
+					<response id="D">Ask and Answer </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10160" QUniqId="10160" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>25)Khối lệnh ask and wait nằm trong nhóm lệnh nào?</title>
+				<responses>
+					<response id="A">Pen </response>
+					<response id="B">Operators </response>
+					<response id="C">Motions </response>
+					<response id="D">Sensing </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10161" QUniqId="10161" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>26)Nhân vật Devin thuộc mục nào trong thư viện nhân vật của Scratch ?</title>
+				<responses>
+					<response id="A">People </response>
+					<response id="B">Sprites </response>
+					<response id="C">Things </response>
+					<response id="D">Animals </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10162" QUniqId="10162" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>27)Tham số của khối lệnh ask and wait là gì ?</title>
+				<responses>
+					<response id="A">Câu hỏi chọn từ danh sách có sắn </response>
+					<response id="B">Câu trả lời nhập từ bàn phím </response>
+					<response id="C">Thời gian chờ câu hỏi </response>
+					<response id="D">Câu hỏi viết </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10163" QUniqId="10163" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>28)Điền vào dấu … “Sau khi nhận được câu trả lời,chương trình sẽ chờ cho đến khi … hoặc …”</title>
+				<responses>
+					<response id="A">Bàn phím Enter , hết thời gian chờ </response>
+					<response id="B">Bàn phím Enter , chạy khối lệnh  </response>
+					<response id="C">Bàn phím cách,nhập vào đánh dấu </response>
+					<response id="D">Bàn phím Enter,nhập vào đánh dấu </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10164" QUniqId="10164" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>29)Làm cách nào để xem giá trị của khối lệnh Answer?</title>
+				<responses>
+					<response id="A">Tích vào ô vuông ở trước khối lệnh trên sân khấu </response>
+					<response id="B">Bấm vào chữ answer trên sân khấu </response>
+					<response id="C">Chạy khối lệnh ask and wait </response>
+					<response id="D">Tích vào ô vuông ở trước khối lệnh trong nhóm lệnh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10165" QUniqId="10165" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>30)Khối lệnh answer nằm trong nhóm lệnh nào ?</title>
+				<responses>
+					<response id="A">Operator </response>
+					<response id="B">Sensing </response>
+					<response id="C">Motion </response>
+					<response id="D">Pen </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10166" QUniqId="10166" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>31)Làm cách nào để hiển thị giá trị của khối lệnh answer cạnh nhân vật ?</title>
+				<responses>
+					<response id="A">Ghép say for secs làm tham số của answer </response>
+					<response id="B">Đặt khối lệnh answer cạnh nhân vật </response>
+					<response id="C">Đặt khối lệnh ask and wait cạnh nhân vật </response>
+					<response id="D">Ghép answer làm tham số cả say for secs </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10167" QUniqId="10167" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>32)Điền vào dấu …”Khi chạy khối lệnh ask and wait,… sẽ xuất hiện trên màn hình và chờ …”</title>
+				<responses>
+					<response id="A">Câu hỏi,nhập thời gian từ bàn phím </response>
+					<response id="B">Câu trả lời,nhập câu hỏi từ bàn phím </response>
+					<response id="C">Câu trả lời,nhập câu hỏi từ bàn phím </response>
+					<response id="D">Câu hỏi,nhập câu trả lời từ bàn phím </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10168" QUniqId="10168" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>33)Khối lệnh when clicked nằm trong nhóm lệnh nào?</title>
+				<responses>
+					<response id="A">Motion </response>
+					<response id="B">Action </response>
+					<response id="C">Events </response>
+					<response id="D">Control </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10169" QUniqId="10169" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>34)Khối lệnh move steps với tham số âm sẽ di chuyển theo hướng nào ?</title>
+				<responses>
+					<response id="A">Bên trái </response>
+					<response id="B">Bên phải </response>
+					<response id="C">Hướng ngược lại </response>
+					<response id="D">Hướng hiện tại </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10170" QUniqId="10170" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>35)Khối lệnh nào làm cho nhân vật di chuyển một số bước nhất định?</title>
+				<responses>
+					<response id="A">Jum steps </response>
+					<response id="B">Jum </response>
+					<response id="C">Move steps </response>
+					<response id="D">Move </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10171" QUniqId="10171" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>36)Khối lệnh when clicked dùng để làm gì?</title>
+				<responses>
+					<response id="A">Làm nhân vật di chuyển khi bấm vào khối lệnh </response>
+					<response id="B">Chạy khối kịch bản ở dưới khi vào khối lệnh </response>
+					<response id="C">Chạy khối kịch bản ở dưới khi bấm vào nhân vật </response>
+					<response id="D">Chạy khối kịch bản ở dưới khi bấm lá cờ xanh </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10172" QUniqId="10172" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>37)Khối lệnh move steps với tham số 20 đùng để làm gì ?&amp;#x09;</title>
+				<responses>
+					<response id="A">Di chuyển 20cm bên khu vực sân khấu </response>
+					<response id="B">Nhảy 20 bước trên khu vực sân khấu </response>
+					<response id="C">Di chuyển 20 bước trên khu vực sân khấu </response>
+					<response id="D">Di chuyển một khoảng 20cm trên khu vực sân khấu </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10173" QUniqId="10173" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>38)Khối lệnh turn right degrees nằm trong nhóm lệnh nào?</title>
+				<responses>
+					<response id="A">Motion </response>
+					<response id="B">Rotation </response>
+					<response id="C">Move </response>
+					<response id="D">Action </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10174" QUniqId="10174" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>39)Khối lệnh turn right degrees với tham số âm sẽ làm nhân vật quay theo hướng nào?</title>
+				<responses>
+					<response id="A">Hướng ngược lại </response>
+					<response id="B">Hướng hiện tại </response>
+					<response id="C">Bên trái </response>
+					<response id="D">Bên phải </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10175" QUniqId="10175" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>40)Khối lệnh turn left degrees nằm trong nhóm lệnh nào?</title>
+				<responses>
+					<response id="A">Action </response>
+					<response id="B">Move </response>
+					<response id="C">Rotation </response>
+					<response id="D">Motion </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10176" QUniqId="10176" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>41)Khối lệnh turn left degrees với tham số dương sẽ làm cho nhân vật quay theo hướng nào</title>
+				<responses>
+					<response id="A">Bên phải </response>
+					<response id="B">Hướng hiện tại </response>
+					<response id="C">Bên trái </response>
+					<response id="D">Hướng ngược lại </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10177" QUniqId="10177" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>42)Khối lệnh turn right degrees nằm trong nhóm lệnh nào</title>
+				<responses>
+					<response id="A">Action </response>
+					<response id="B">Move </response>
+					<response id="C">Rotation </response>
+					<response id="D">Motion </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10178" QUniqId="10178" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>43)Khối lệnh turn left degrees với tham số 20 có nghĩa là gì ?</title>
+				<responses>
+					<response id="A">Di chuyển 1 khoảng 20 </response>
+					<response id="B">Quay về góc 20 độ </response>
+					<response id="C">Quay về bên phải 1 góc 20 độ </response>
+					<response id="D">Quay về bên trái 1 góc 20 độ </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10179" QUniqId="10179" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>44)Khối lệnh turn right degrees với tham số âm sẽ làm cho nhân vật quay theo hướng nào ?</title>
+				<responses>
+					<response id="A">Hướng hiện tại </response>
+					<response id="B">Hướng ngược lại </response>
+					<response id="C">Bên trái </response>
+					<response id="D">Bên phải </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10180" QUniqId="10180" type="choice" score="2" correct-response="D">
+				<name>Câu hỏi 1</name>
+				<title>45)Khi ghép khối lệnh forever ở người khối lệnh turn right degrees,2 khối lệnh này có ý nghĩa gì?</title>
+				<responses>
+					<response id="A">Di chuyển về bên trái liên tục </response>
+					<response id="B">Quay về bên trái liên tục </response>
+					<response id="C">Quay về bên phải liên tục </response>
+					<response id="D">Di chuyển về bên phải liên tục </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10181" QUniqId="10181" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>46)Khối lệnh turn left degrees với tham số dương sẽ làm cho nhân vật quay về hướng nào?</title>
+				<responses>
+					<response id="A">Bên phải </response>
+					<response id="B">Bên trái </response>
+					<response id="C">Hướng ngược lại </response>
+					<response id="D">Hướng hiện tại </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10182" QUniqId="10182" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>47)Khi ghép khối lệnh forever ở ngoài khối lệnh turn right degrees,2 khối lệnh này có ý nghĩa gì?</title>
+				<responses>
+					<response id="A">Quay về bên phải liên tục </response>
+					<response id="B">Di chuyển về bên phải liên tục </response>
+					<response id="C">Quay về bên trái liên tục </response>
+					<response id="D">Di chuyển về bên trái liên tục </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10183" QUniqId="10183" type="choice" score="2" correct-response="C">
+				<name>Câu hỏi 1</name>
+				<title>48)Khối lệnh when clicked và khối lệnh turn right degrees,được ghép với nhau theo cách nào?</title>
+				<responses>
+					<response id="A">When clicked ở trong turn right degrees </response>
+					<response id="B">Turn right degrees ở trong when clicked </response>
+					<response id="C">Tủn right degrees ở trên when clicked </response>
+					<response id="D">When clicked ở trên turn right degrees </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10184" QUniqId="10184" type="choice" score="2" correct-response="A">
+				<name>Câu hỏi 1</name>
+				<title>49)Khối lệnh nào để làm cho nhân vật quay về bên trái?</title>
+				<responses>
+					<response id="A">Turn left </response>
+					<response id="B">Turn left degrees </response>
+					<response id="C">Turn right degrees </response>
+					<response id="D">Turn degrees </response>
+				</responses>
+			</interaction>
+			<interaction id="Interaction10185" QUniqId="10185" type="choice" score="2" correct-response="B">
+				<name>Câu hỏi 1</name>
+				<title>50)Khi ghép khối lệnh forever ở ngoài 2 khối lệnh turn right degrees và move steps, 3 khối lệnh này có ý nghĩa gì?</title>
+				<responses>
+					<response id="A">Quay về bên trái liên tục </response>
+					<response id="B">Quay và di chuyển về bên trái liên tục </response>
+					<response id="C">Quay về bên phải liên tục </response>
+					<response id="D">Quay và di chuyển về bên phải liên tục </response>
+				</responses>
+			</interaction>
+		</interactions>
+	</objective>
+</tracking-metadata>
